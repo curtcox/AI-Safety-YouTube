@@ -477,23 +477,6 @@
       "retrieved": "2026-09-24"
     },
     {
-      "id": "XyMdpcAPnZc",
-      "title": "AI YouTube Comments - Computerphile",
-      "url": "https://www.youtube.com/watch?v=XyMdpcAPnZc",
-      "channel": "Computerphile",
-      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
-      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
-      "upload_date": "2017-10-04",
-      "duration_seconds": 920,
-      "is_short": false,
-      "chapters": 5,
-      "transcript": {
-        "source": "auto",
-        "language": "en-orig"
-      },
-      "retrieved": "2026-09-24"
-    },
-    {
       "id": "JAcwtV_bFp4",
       "title": "The Hard Problem of Controlling Powerful AI Systems - Computerphile",
       "url": "https://www.youtube.com/watch?v=JAcwtV_bFp4",
@@ -592,6 +575,176 @@
       "transcript": {
         "source": "auto",
         "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "zn2ukSnDqSg",
+      "title": "ChatGPT Jailbreak - Computerphile",
+      "url": "https://www.youtube.com/watch?v=zn2ukSnDqSg",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2024-04-09",
+      "duration_seconds": 700,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "rAEqP9VEhe8",
+      "title": "Generative AI's Greatest Flaw - Computerphile",
+      "url": "https://www.youtube.com/watch?v=rAEqP9VEhe8",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2025-02-27",
+      "duration_seconds": 742,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "0GQ2RP-25gM",
+      "title": "Why AI is like a (Clever Hans) Horse - Computerphile",
+      "url": "https://www.youtube.com/watch?v=0GQ2RP-25gM",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2026-06-25",
+      "duration_seconds": 1122,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "evSFeqTZdqs",
+      "title": "AI's Version of Moore's Law? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=evSFeqTZdqs",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2025-04-29",
+      "duration_seconds": 785,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "bdbhKoypnFI",
+      "title": "LLMs and Newcomb's Problem - Computerphile",
+      "url": "https://www.youtube.com/watch?v=bdbhKoypnFI",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2026-01-13",
+      "duration_seconds": 1112,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "jzRrUPQgrpc",
+      "title": "Verifying AI 'Black Boxes' - Computerphile",
+      "url": "https://www.youtube.com/watch?v=jzRrUPQgrpc",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2022-12-08",
+      "duration_seconds": 823,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gGIiechWEFs",
+      "title": "Tricking AI Image Recognition - Computerphile",
+      "url": "https://www.youtube.com/watch?v=gGIiechWEFs",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2022-07-27",
+      "duration_seconds": 752,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "kVXp6UNVPTo",
+      "title": "How Watermarks Track AI Generated Content - Computerphile",
+      "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2026-09-03",
+      "duration_seconds": 1916,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "XZJc1p6RE78",
+      "title": "Ch(e)at GPT? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=XZJc1p6RE78",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2023-02-16",
+      "duration_seconds": 831,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "IT6-5ZbabVg",
+      "title": "Is DeepFake Really All That? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=IT6-5ZbabVg",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2021-06-04",
+      "duration_seconds": 750,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
       },
       "retrieved": "2026-09-24"
     }

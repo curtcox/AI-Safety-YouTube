@@ -1,0 +1,109 @@
+---
+id: "0GQ2RP-25gM"
+title: "Why AI is like a (Clever Hans) Horse - Computerphile"
+url: "https://www.youtube.com/watch?v=0GQ2RP-25gM"
+channel: "Computerphile"
+channel_id: "UC9-y-6csu5WGm29I7JiwpnA"
+channel_url: "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"
+upload_date: "2026-06-25"
+duration_seconds: 1122
+is_short: false
+chapters: 7
+transcript: {"source": "auto", "language": "en-orig"}
+collections: ["channels/computerphile"]
+retrieved: "2026-09-24"
+---
+
+# Why AI is like a (Clever Hans) Horse - Computerphile
+
+[Watch on YouTube](https://www.youtube.com/watch?v=0GQ2RP-25gM) · Computerphile · 2026-06-25 · 18:42
+
+## Chapters
+
+- 0:00 The Clever Hans effect
+- 1:42 AI in music classification
+- 2:23 Analyzing signal components
+- 5:06 Testing model causality
+- 8:36 Demonstrating model failure
+- 12:14 Sufficient and necessary data
+- 15:27 Conclusion on AI limitations
+
+## Description
+
+```text
+Clever Hans was a horse that could do maths, or was it using some other trick? Is AI music classification working like a 'Clever Hans?'
+
+David Kelly is based at Kings College London. His paper is in preprint here: https://arxiv.org/pdf/2601.16675    
+
+Computerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile
+
+This video was filmed and edited by Sean Riley.
+
+Computerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com
+```
+
+## Transcript
+
+_Source: YouTube auto-generated captions (en-orig). Timestamps are [m:ss] from the start of the video._
+
+### The Clever Hans effect
+
+[0:00] Uh, well, today we're going to be talking about um the Clever Hans effect. >> Okay, who's this Hans character then? >> I don't know if you can use who for an animal. So, Clever Hans was a horse born in the late 1890s in Germany. This is our Clever Hans for today. He was an extraordinary horse. He could do mathematics and answer other types of questions. So, he would be put on display in public and somebody would ask him, "What's What's 3 + 3, Hans?" And they'd start counting up cuz obviously horses can't speak. Go 1 2 3 4 5 and the horse would neigh, stomp its feet, >> Yeah. >> and it'd be six. Amazing. And he could do other types of problems as well, not just mathematics. So, the Clever Hans effect um is something we find in AI in particular.
+
+[0:53] Was Hans doing mathematics? >> Questionable. >> Well, actually, that's still disputed. >> Okay. >> Uh, and we'll never know because Hans died in the First World War and was probably eaten. So, poor Hans. Um but one particular German psychologist um thought that Hans wasn't doing mathematics. >> All right. >> He was observing body language. So, Hans was clever, but he wasn't counting. >> Okay. >> So, the questioner, this is our questioner, would ask, "What's 3 + 3?" And when the correct answer approached, there'd be an involuntary signal that Hans had learned. >> Right. >> So, uh Hans would go ooh, almost I suppose like a Pavlovian response, but a bit more sophisticated because there were more types of trigger. Uh, and a model, an AI model, might do exactly the same thing. So,
+
+### AI in music classification
+
+[1:42] let's talk about uh the Clever Hans effect in music. So, about I think 12 years ago, there was a paper by a guy called Bob Sturm, and he said that actually music classifier models are all horses, they're just Clever Hans. And I can show that this is the case because what he did is he took some classifiers, he took some music, and he just applied equalization filters, delays, and it changed the classification. So, you had rock music, you add some delay to it, and suddenly the model says it's reggae. But he doesn't know why this happened. So, we today are going to look at why this is happening. Now, if you want
+
+### Analyzing signal components
+
+[2:24] want to ask a question a why question in uh computer science or just in general, you probably need causality. So, what in the music caused the model to say this is rock or caused it to say this is reggae. I hope this is reasonable that most people know that audio can be represented as a wave. That might look I don't know, something like this. Okay, so we've got our signal, and this is time along this axis, and this is amplitude, which we can say is volume. I'm not going to be that fussy about it. Now, here's the here's the big leap. So, there's something called a Fourier transform. There's probably been a number file video on it. Maybe. Or computer file. There should be. I'm not going to go into it today cuz it's mathematically quite complicated, but the upshot is that this signal can be decomposed into a load of different sinusoidal signals, each at a different frequency.
+
+[3:20] So, it might look like this. You've got one like this, and you can have one like this, and then you might have one like this. And when you add them all together, you get that. We want to test the hypothesis that our model is not using musical information, but is doing something else, some sort of shortcut learning. So, one way you could do it, it's not the only way, the way I have done it, is to say, "Well, let's decompose this signal into all of its different frequency components." And what you get is something usually called the FFT, which is the fast Fourier transform. And it might look like this. So, on the x-axis, we have the frequencies. And here we have amplitude. And you'll have something that looks >> It's like a histogram of it. >> Yeah, exactly. Histogram of the um It's not quite a histogram, but close enough. Uh of the frequencies that are present in the signal. And then we can ask the question, what frequencies are needed?
+
+[4:16] What is the minimum information I can pass to the model to Let's say this was classified as the blues. >> Mhm. >> Do I need all of this information for it to be the blues? I mean, maybe I do, but we don't know. So, how are we going to find out? I could test every single combination of frequencies. That's mad. In a 30-second piece of audio, which is what our classifiers take, these frequency bins, they're called, there's going to be something like 240,000 of them. So, I can't do that in my head. Uh it's a big number if we look at all possible combinations. So, we're not going to do that. We are going to um sort of do a divide and conquer algorithm, which actually you've got a previous video on. Uh Hannah Chocoler talked about I think it was called Deep Cover at the time. It's now called Rex.
+
+[5:05] Look it up. Uh so, we're going to use a
+
+### Testing model causality
+
+[5:06] similar technique. And what we're going to do is we're going to divide this up randomly into chunks. And [snorts] so, now we've got 0 1 2 and 3. And we can look at the combinations of these pretty easily. So, we look at the combinations and let's say what was needed 0 and 2 were all that were needed for the blues. Okay, fine. Then we can do the same thing again. So, now we get rid of this. Goodbye. Goodbye. Uh and we can subdivide these and keep searching, keep searching, keep searching. So, that's now 0 1 2 3 until eventually it turns out maybe we just needed this and this for the classifier. To be happy that that's the blues. So that is sufficient.
+
+[5:55] To get the classification blues. So we're going to call that sufficient signal. And I'll play you some later so you can see if you think they're sufficient or not. So that's a sufficient signal. It's enough to get back the blues. Um but it's not necessary. So what do I mean by that? It means that if I remove these frequencies, let me see if I can redraw this approximately the same. So that's the blues and we agree. I hope. That this and this. Are sufficient for the blues. But what if I just removed these and left everything else the same? That might still be the blues. There can be more than one reason. Why the model thinks it's the blues. And I think that's perfectly reasonable. So we can compute also what we call a complete explanation. So a complete. Means that it's sufficient. So by itself it's the blues. And if I remove it. By just setting these frequency values to zero. It's no longer the blues.
+
+[6:48] So we can literally extract the blues from the audio. >> But I mean presumably to our human ears it kind of still sounds like the blues, right? >> Well that's. Um. >> Cuz we did a video a few years ago about image classifier fires and adding a bit of noise and making I don't know a stapler turn into a laptop. >> So short answer to your question. Excellent question. Is yes. Uh really what it does is highlight these models are not. They are horses. This is a clever Hans. Um they're not doing what we would expect. So if I to ask you. Um. I'll crack open my guitar. So if I were to ask you. What the blues is. I mean so I'm going to play like a 12 bar blues. Very simple 12 bar blues. How do you know that's the blues? What would you say?
+
+[7:37] >> Yeah. I I think it's a pattern that I've heard before. That's how I would say. >> Well that's what a model is doing as well. >> Yeah. But I'm envisaging somebody sat on the stoop in front of a, you know, it it it conjures things. >> Okay, so you're saying that there's almost like an emotional >> somebody whose life has left them and then their dog has died and all this sort of stuff. >> Well, lots of blues is also pretty lascivious. It could be I'm your backdoor man and I'm going to come in and have an affair with your wife. >> Oh, yes. >> I'm not. I don't know where she lives. >> [laughter] >> Probably more fits about that actually, isn't it? >> Yeah, probably. So, it's a tricky question, isn't it? There is actually no really simple answer to why that's the blues. We talk about the rhythm. We talk about the instrumentation. We could talk about the harmonic progression, the exact phrasing.
+
+[8:26] Are models doing this? Ideally, yes. >> But probably not. >> But probably not. And I'll I'll as a spoiler, I'll tell you
+
+### Demonstrating model failure
+
+[8:36] that the fact that we can do this says that they're not. Because it wouldn't be possible, I think, to subtract some frequencies from that and convince you that I was playing Bach. >> Okay, yeah. >> Maybe I could, but but I probably couldn't. So, we've got the sufficient for the blues. We've got the complete >> Just a slight side track then, all right? If you played that on a marimba, would people still think it was the blues? >> Possibly not, because again, timbre is really important in this sort of thing. So, if I would play that on a saxophone or marimba is an interesting choice. >> I just went for something like completely >> completely different, yeah. Do you [music] know what? That'd be a great experiment. >> [music] >> I don't do many user studies. I don't know how to set them up, but I think that's a user study experiment. So, we've got a complete, which means that it's sufficient and necessary. So, if I take it away, we get a new classification. So, the question is then, what is that new classification?
+
+[9:31] So, we call that one the inverse, which is not a very exciting name. And this may or may not exist. So, again, if the models were really doing what we wanted, the complete signal sufficient and necessary should be everything. There should be no inverse. It shouldn't be possible to change the classification by just subtracting a couple of frequencies. Um now, I've got an example we can listen to. Full disclosure, I chose an extreme example >> [laughter] >> so that you can really hear the difference. Um So, let's have a listen. Okay, so what we have here is uh an example that I pre-recorded. I was going to do it live, but you know, nerves got the better of me. So, uh it's my 11-year-old son on drums. Hi, William. Um so, it's it's a basic blues. I think we'll agree that it's the blues.
+
+[10:28] I apologize for the rubbish guitar solo over the top. I'm not a blues player. >> It sounds bluesy to me. It's decent. >> You get the idea. So, that's the original audio. So, remember that we talked about sufficient signals. What is the minimal number of frequencies I can pass in to a classifier? I'm not going to tell you which classifier. It's publicly available, but I don't want to embarrass them cuz it's not a particularly good classifier. What is the minimal number of frequencies I can pass in to get back the classification blues? And the beautiful thing is we can listen to it. So, it's here. This is it. Let's compare it to the original. I broadly speaking, you can see it's got louder bits in the same sort of place.
+
+[11:16] It follows vaguely the same sort of contour, but you can see it's not the same. Do you want to hear it? >> Let's have a listen. >> [music] >> The blues. >> Well, you've made it blue on the screen. I mean, that's the only blue thing about it. >> I wish that were deliberate. That was random. So, that's >> like some kind of I know what it sounds like, the noise some of these electric cars make when they're going slowly. >> [laughter] >> Yeah, I suppose so. Yeah. So, are you telling me that they're they're playing the blues as they as they sort of drive along? Um So, that against all reasonable definitions is the blues for this particular model. So, I also talked about um sufficient and necessary. So, we would hope this is slightly better. So, sufficient can be really really really small. Remember that the model >> So, it would still classify that as the blues even if it was just that sound we just heard. That's
+
+### Sufficient and necessary data
+
+[12:14] >> That is the blues. That's That's the absolute minimum. >> Minimum, yeah. >> Okay, so we've now we're going to ask ourselves a question, what is sufficient and necessary? I suppose ideally we would hope that this sounds better, this sounds more like the blues. If we look at the actual signal, it's quite intriguing. So, remember that we're removing frequencies from all sorts of different parts of the frequency range. And for this simple experiment, I just set them to zero. You don't have to set them to zero, really. You can do anything you want, but zero seems reasonable. It's basically turning off that frequency. So, if we look at it, it actually kind of looks a bit like it's been brick walled. So, I don't know if you know this this term. So, in the early 2000s, maybe even earlier, there was a period in music that I called the the sound wars or the volume wars. And everybody just had to be louder and louder and louder. So, the way you do that is you make the really loud parts quieter, and then then you can make the quieter parts louder.
+
+[13:09] Um and you end up with looks something that looks like this, everything equally loud. So, we can listen to this. So, remember this is the blues by itself is the blues. And if I remove this from this, it's no longer the blues. What I have left over is not the blues. So, let's listen to this. And let's see what you think. >> [music] >> That's reasonable, isn't it? >> Interesting that the bass is gone. >> Yeah. And a lot of the drums is gone. In fact, what it's really holding on to is is my amazing guitar playing. >> [laughter] >> So, so clearly my my guitar playing is the blues, which is not a compliment because the model also thinks that this is the blues. So, hmm, not sure about that. Okay, so the last question we can ask is if we do subtract this from this, do we have enough signal left over to send to the classifier? In this case, we do. We don't always. This case, we do.
+
+[14:24] And we can ask what what is it? So, let's just solo that. >> [music] >> Where's that bass? >> There's the bass. So, [music] and the guitar is a lot less prominent, and the drums are much more prominent. So, this is not the blues. What it What is it? >> Okay, the Well, what would it classify it as? >> Yeah. You've got 10 options. I can't remember all 10, but I'll give you hip hop, rock, heavy metal, reggae, pop. They're five choices for you. It's one of those. >> My uh my clever hands is going to say rock. >> Your clever hands is going to be shot and and turned into glue, I'm afraid. Uh that's classified as hip hop. >> Okay. >> Um and I don't know enough about hip hop actually to say if that's reasonable.
+
+[15:14] I suppose you could say that as a sample, it could be used in a hip hop context, but I think most people would agree that that by itself is not hip hop. But the model says it is. So, what does it all mean? It means your
+
+### Conclusion on AI limitations
+
+[15:28] model, this model at least, is a clever hands. And unfortunately, it's not even that clever because actually it's really easy to fool. Uh we've seen a sufficient signal, which doesn't sound anything like the blues. I think even if you were deaf, you would say that's not the blues. Um but the model says it is. And then worse, we can extract the blues from the audio and have something left over that to my ear at least is still kind of the blues. It's borderline. Um but the model says it's now hip hop. It doesn't just say it's hip hop, it says it's quite confident that it's hip hop. So, every model will also, in addition to the classification, gives you something that we we usually refer to as the confidence. Now, whether it really is a confidence score or not is debatable. Um but this has a score that's quite high, this particular audio. So, that had 83% confidence that that was hip hop.
+
+[16:22] And at least in this room, we don't we don't agree. Um and you can do this with pretty much any model. I've chosen one here because it's quite a an extreme example where I think that the sufficient at least is not really open for debate. Um but I've tried this on many, many models and it always works. So, they are not uh listening to the music in any way that a human would understand. They are just doing frequency analysis. And sometimes they're learning the wrong thing. They're doing shortcut learning. So, they listen to this and they say, "Okay, that that's the blues. We're done." And I'll play you one more thing, which I think you might find intriguing. What if I took loads of sufficient signals, hundred of them, all for the blues and added them together and asked the question, "Is that the blues?" Well, I've done it.
+
+[17:13] And it is the blues. And I'll play it for you now. So, remember this is 100 sufficient signals blended together. >> [music] >> And that is classified as the blues. >> Sounds like [music] the sort of thing you might hear in the womb or >> Yeah. It's It's a Yeah. I I played that to somebody else and they said it sounded like you were outside a tent at a festival. Uh and you know, presumably on drugs. I'm not really sure. But, um as not not any festival I've been to. But, I I suppose the point is that the these models they they do work. I mean, the accuracy of this model is very good. But, it's not working the way a human wants it to work. Or certainly not working in a way that a human understands. I think that's a reasonable assertion. And so, Stern's paper when he first looked at this in music is 14 years old and he said, "Look, these models I'm testing. These are horses.
+
+[18:10] These are not understanding music." It's now 14 years later and we haven't got any better. If anything, it's probably worse. >> you were dealing with financial data or weather data or something like that. The minute-by-minute or hour-by-hour fluctuations might not be important. Actually, what you want is a smoother curve. Okay? Well, how would you do that? Have a guess how you do that. >> It's averaging, isn't it? >> Just averaging.

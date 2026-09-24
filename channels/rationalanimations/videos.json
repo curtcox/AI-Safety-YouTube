@@ -1,0 +1,59 @@
+{
+  "videos": [
+    {
+      "id": "Y2vDwR9rW-0",
+      "title": "What will it take to wake humanity up?",
+      "url": "https://www.youtube.com/watch?v=Y2vDwR9rW-0",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-09-20",
+      "duration_seconds": 800,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PL1Nr7ps7wyYrO4HeIcH1ItpTmi4HGMitv",
+      "title": "AI Safety",
+      "video_ids": [
+        "3K25VPdbAjU",
+        "cLXQnnVWJGo",
+        "q9Figerh89g",
+        "NqmUBZQhOYw",
+        "gpBqw2sTD08",
+        "jQOBaGka7O0",
+        "4xS3yykCIHU",
+        "4LlGJd2OhdQ",
+        "qV_rOlHjvvs",
+        "jGCvY4gNnA8",
+        "xc_4eACo8JU",
+        "fVN_5xsMDdg",
+        "KUkHhVYv3jU",
+        "dYAaqGdoXm4",
+        "K8p8_VlFHUk",
+        "0bnxF9YfyFI",
+        "-ffmwR9PPVM",
+        "5mco9zAamRk",
+        "uiPhOk1t3GU",
+        "Z3WMt_ncgUI",
+        "eP1dSWFqKVs",
+        "DWBJjcO69mQ",
+        "tUB_uvSqiw8",
+        "INP8ru2Tj5M",
+        "7wy3xyoXYt8",
+        "hzlR0R91lZA",
+        "Z7dH_Cxx75g",
+        "yh4H4Ifp0Lk",
+        "2Wv3p9WCs6M",
+        "Y2vDwR9rW-0"
+      ]
+    }
+  ]
+}
