@@ -50,6 +50,108 @@
         "language": "en"
       },
       "retrieved": "2026-09-24"
+    },
+    {
+      "id": "hzlR0R91lZA",
+      "title": "Do they know that we know that they know?",
+      "url": "https://www.youtube.com/watch?v=hzlR0R91lZA",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-06-06",
+      "duration_seconds": 952,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "7wy3xyoXYt8",
+      "title": "This May Be Humanity’s Hardest Challenge",
+      "url": "https://www.youtube.com/watch?v=7wy3xyoXYt8",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-05-02",
+      "duration_seconds": 937,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "INP8ru2Tj5M",
+      "title": "The dumbest AI taught the smartest AI. Here’s how that went…",
+      "url": "https://www.youtube.com/watch?v=INP8ru2Tj5M",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-03-07",
+      "duration_seconds": 1059,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "tUB_uvSqiw8",
+      "title": "Can we just... pause AI?",
+      "url": "https://www.youtube.com/watch?v=tUB_uvSqiw8",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-01-10",
+      "duration_seconds": 911,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "DWBJjcO69mQ",
+      "title": "AI could be a tool for global control (plus other major AI risks)",
+      "url": "https://www.youtube.com/watch?v=DWBJjcO69mQ",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-12-06",
+      "duration_seconds": 1076,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "eP1dSWFqKVs",
+      "title": "What a 100-year-old horse teaches us about AI",
+      "url": "https://www.youtube.com/watch?v=eP1dSWFqKVs",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-11-15",
+      "duration_seconds": 994,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
     }
   ],
   "playlists": [
