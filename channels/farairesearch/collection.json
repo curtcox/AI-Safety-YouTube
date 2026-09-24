@@ -1,0 +1,33 @@
+{
+  "channel": "FAR.AI",
+  "channel_url": "https://www.youtube.com/@FARAIResearch",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@FARAIResearch/videos"
+    },
+    {
+      "url": "https://www.youtube.com/@FARAIResearch/shorts"
+    }
+  ],
+  "playlists": [
+    "https://www.youtube.com/playlist?list=PLBY5kyt_LfFg",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrdMuk0zgy0x6RWn8Ssq3R5v",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcremgy5Xi1z7-TYtd23dWUpa",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrcz8Js7lmdr9XT-vvm0EnzM",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrenHjBk75z4qiKwTsYrvr9n",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrdU5__AWjS3nFwoPPqUF6Ij",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcreU5HqW6aUYeppYPG8aBRZ_",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrfbUFICkuP4LI1FvNHxTd0a",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrfMrlK7CgPNU5-bl3qlArbg",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrdAIXOqAM8donJRt5mr7Tiz",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrfwneYMYPMdqfHNXrPdUXpc",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrcGuwfd4yo71wqb1nRlTqyf",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrcbuHib5fR5KdYKFJ3umbHz",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrcWnwLnVUMGaWxNSSQlY8J3",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcreXgK6Cg9NVGvFANmdUczWa",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrdbhhPA40Xqg24YoMmX4fyf",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcre6bQAHG8IX2XP7vRZuRLgD",
+    "https://www.youtube.com/playlist?list=PLpvkFqYJXcrdxYK-C4ZRj0cgcco3o0VxF"
+  ],
+  "exclude": []
+}

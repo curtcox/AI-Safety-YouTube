@@ -296,8 +296,13 @@ def main():
         short_ids |= {e["id"] for e in entries if "/shorts/" in (e.get("url") or "")}
         if src.get("as_playlist"):
             playlists.append({"id": info["id"], "title": info.get("title"), "video_ids": src_ids})
+    ids += [e["id"] for e in config.get("include", []) if e["id"] not in ids]
     for pl_url in config.get("playlists", []):
-        info, entries = list_source(pl_url)
+        try:
+            info, entries = list_source(pl_url)
+        except Exception as e:  # a broken playlist shouldn't block the collection
+            log(f"  skipping playlist {pl_url}: {str(e)[:120]}")
+            continue
         playlists.append({
             "id": info["id"], "title": info.get("title"),
             "video_ids": [e["id"] for e in entries if e["id"] not in excluded],

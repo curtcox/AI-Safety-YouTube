@@ -1,0 +1,26 @@
+{
+  "channel": "AXRP - the AI X-risk Research Podcast",
+  "channel_url": "https://www.youtube.com/@axrpodcast",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@axrpodcast/videos"
+    },
+    {
+      "url": "https://www.youtube.com/@axrpodcast/shorts"
+    }
+  ],
+  "playlists": [
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDc38_12u77nU_Grjl6M_yO-",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDckzCCd34gF7omC6ob-QTx2",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDe_6IsvDuC0FQRkhdAEaGZU",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDcl7Zwm9MDogJRehovIy_N2",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDf3mNdaf1_qX6zurAiiBx8Y",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDe_tk8nBM-qxJN06OiqiVaV",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDdVNUy7ljzLor0pP6gsKBGA",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDfl9sWEVXHVLJ1oU8lVjNAP",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDdgzJzJiG1sGCBEkGcI5BW5",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDc_wfvEe0WwKPcKYB1f9z_j",
+    "https://www.youtube.com/playlist?list=PLmjaTS1-AiDdo5K9jlaI2kTm4sAKbry5d"
+  ],
+  "exclude": []
+}

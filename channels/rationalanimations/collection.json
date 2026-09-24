@@ -1,0 +1,114 @@
+{
+  "channel": "Rational Animations",
+  "channel_url": "https://www.youtube.com/@RationalAnimations",
+  "scope": "Whole channel (videos + shorts) except clearly non-AI videos (listed in `exclude`). The channel also covers effective altruism, longtermism and rationality.",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@RationalAnimations/videos"
+    },
+    {
+      "url": "https://www.youtube.com/@RationalAnimations/shorts"
+    }
+  ],
+  "playlists": [
+    "https://www.youtube.com/playlist?list=PL1Nr7ps7wyYrO4HeIcH1ItpTmi4HGMitv"
+  ],
+  "exclude": [
+    {
+      "id": "2DUlYQTrsOs",
+      "reason": "Global poverty: not AI"
+    },
+    {
+      "id": "1_u5iYOdwCA",
+      "reason": "Global poverty: not AI"
+    },
+    {
+      "id": "mBfadrX0e_Y",
+      "reason": "Global poverty: not AI"
+    },
+    {
+      "id": "ll9myMeFU3g",
+      "reason": "EA careers in global health: not AI"
+    },
+    {
+      "id": "v-A1i2g9riU",
+      "reason": "Charter cities: not AI"
+    },
+    {
+      "id": "4hHA-oqpNig",
+      "reason": "Bayes' rule: not AI"
+    },
+    {
+      "id": "xA27x7GRMZQ",
+      "reason": "Prediction markets: not AI"
+    },
+    {
+      "id": "LceY7nhi6j4",
+      "reason": "Grabby aliens: not AI"
+    },
+    {
+      "id": "l3whaviTqqg",
+      "reason": "Grabby aliens: not AI"
+    },
+    {
+      "id": "aAQR-_GKaR8",
+      "reason": "Human welfare: not AI"
+    },
+    {
+      "id": "N_ayq66t77U",
+      "reason": "Human welfare: not AI"
+    },
+    {
+      "id": "CGmdvdXoJ-8",
+      "reason": "Human welfare: not AI"
+    },
+    {
+      "id": "ljmifo4Klss",
+      "reason": "Smallpox eradication: not AI"
+    },
+    {
+      "id": "NxqTOm3TzsY",
+      "reason": "Beliefs and identity: not AI"
+    },
+    {
+      "id": "vvehj0KvzK8",
+      "reason": "Longtermism (general): not AI"
+    },
+    {
+      "id": "_uV3wP5z51U",
+      "reason": "Longtermism (general): not AI"
+    },
+    {
+      "id": "Bbwp4PbWYzw",
+      "reason": "Goddess of Everything Else: not AI"
+    },
+    {
+      "id": "sLVrQTd-OHI",
+      "reason": "Parable of the Dagger (logic): not AI"
+    },
+    {
+      "id": "LwBVR68z-fg",
+      "reason": "Mind uploading: not AI safety"
+    },
+    {
+      "id": "sfgcg2bW8TI",
+      "reason": "Infohazards (general): not AI"
+    },
+    {
+      "id": "eEZl1bKhVAo",
+      "reason": "Engineered pandemics: not AI"
+    },
+    {
+      "id": "NqBgfsxocXE",
+      "reason": "Minecraft redstone: not AI safety"
+    },
+    {
+      "id": "WqNockPqPBg",
+      "reason": "Cellular automata: not AI"
+    },
+    {
+      "id": "C2vgICfQawE",
+      "reason": "Game of Life: not AI"
+    }
+  ]
+}

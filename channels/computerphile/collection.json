@@ -1,14 +1,122 @@
 {
   "channel": "Computerphile",
   "channel_url": "https://www.youtube.com/@Computerphile",
-  "scope": "Partial: only Robert Miles's appearances, taken from the 'Computerphile Videos' playlist on his own channel. Off-topic (non-AI) episodes are excluded.",
+  "scope": "Partial: (a) Robert Miles's AI appearances, from the 'Computerphile Videos' playlist on his channel plus later ones listed in `include`; (b) AI safety videos by other presenters, listed in `include`. Selected by reviewing all channel titles on 2026-09-24. Non-AI Rob Miles episodes are excluded.",
   "sources": [
-    {"url": "https://www.youtube.com/playlist?list=PLqL14ZxTTA4fRMts7Af2G8t4Rp17e8MdS"}
+    {
+      "url": "https://www.youtube.com/playlist?list=PLqL14ZxTTA4fRMts7Af2G8t4Rp17e8MdS"
+    }
+  ],
+  "include": [
+    {
+      "id": "iuHddnIzKRA",
+      "reason": "Rob Miles: neuralese / unreadable AI reasoning"
+    },
+    {
+      "id": "viJt_DXTfwA",
+      "reason": "Rob Miles: ChatGPT"
+    },
+    {
+      "id": "AqJnK9Dh-eQ",
+      "reason": "Rob Miles: AI cheating and escape attempts"
+    },
+    {
+      "id": "WO2X3oZEJOA",
+      "reason": "Glitch tokens"
+    },
+    {
+      "id": "XyMdpcAPnZc",
+      "reason": "Rob Miles: AI YouTube comments (general ML)"
+    },
+    {
+      "id": "JAcwtV_bFp4",
+      "reason": "AI control"
+    },
+    {
+      "id": "wL22URoMZjo",
+      "reason": "Sleeper agents"
+    },
+    {
+      "id": "pYP0ynR8h-k",
+      "reason": "Sandbagging"
+    },
+    {
+      "id": "Xx4Tpsk_fnM",
+      "reason": "Training against chain-of-thought monitoring"
+    },
+    {
+      "id": "5UAvECavmFA",
+      "reason": "Superintelligence"
+    },
+    {
+      "id": "uA9mxq3gneE",
+      "reason": "Singularity and friendly AI"
+    },
+    {
+      "id": "r1XbEmM02Z0",
+      "reason": "Defining harm for AI systems"
+    },
+    {
+      "id": "zn2ukSnDqSg",
+      "reason": "Jailbreaking"
+    },
+    {
+      "id": "rAEqP9VEhe8",
+      "reason": "Prompt injection"
+    },
+    {
+      "id": "0GQ2RP-25gM",
+      "reason": "Clever Hans / evaluation validity"
+    },
+    {
+      "id": "evSFeqTZdqs",
+      "reason": "Capability trends (task time horizons)"
+    },
+    {
+      "id": "bdbhKoypnFI",
+      "reason": "LLM decision theory (Newcomb's problem)"
+    },
+    {
+      "id": "jzRrUPQgrpc",
+      "reason": "Verifying black-box AI"
+    },
+    {
+      "id": "gGIiechWEFs",
+      "reason": "Adversarial examples"
+    },
+    {
+      "id": "kVXp6UNVPTo",
+      "reason": "Watermarking AI-generated content"
+    },
+    {
+      "id": "XZJc1p6RE78",
+      "reason": "Detecting AI-generated text"
+    },
+    {
+      "id": "IT6-5ZbabVg",
+      "reason": "Deepfakes"
+    },
+    {
+      "id": "_8yVOC4ciXc",
+      "reason": "Rob Miles: GPT-3 (also in his playlist)"
+    }
   ],
   "exclude": [
-    {"id": "GSIDS_lvRv4", "reason": "Public Key Cryptography: not AI"},
-    {"id": "MqZgoNRERY8", "reason": "Code Golf & the Bitshift Variations: not AI"},
-    {"id": "sww4gJPse4o", "reason": "Micropython Name Badge: not AI"},
-    {"id": "ijWcl2Rb4_0", "reason": "GNU/Linux & Video Editing: not AI"}
+    {
+      "id": "GSIDS_lvRv4",
+      "reason": "Public Key Cryptography: not AI"
+    },
+    {
+      "id": "MqZgoNRERY8",
+      "reason": "Code Golf & the Bitshift Variations: not AI"
+    },
+    {
+      "id": "sww4gJPse4o",
+      "reason": "Micropython Name Badge: not AI"
+    },
+    {
+      "id": "ijWcl2Rb4_0",
+      "reason": "GNU/Linux & Video Editing: not AI"
+    }
   ]
 }
