@@ -48,6 +48,16 @@ Add to this whenever something goes wrong or needs a workaround.
   and the script is resumable. Re-running fetched all 6 on the first try.
   If it becomes persistent, yt-dlp supports `--cookies` from a logged-in
   browser; we have avoided that so the pipeline needs no account.
+- **Unresolved (Computerphile collection):** `_8yVOC4ciXc` (*GPT3: An Even
+  Bigger Language Model*) was blocked on every attempt, including 4 backoff
+  retries and a second run. Workarounds tried:
+  - yt-dlp `player_client=mweb` / `web_safari`: gets past the bot check and
+    returns metadata, but no caption tracks at all.
+  - `player_client=tv`: "The page needs to be reloaded". `android_vr`: same bot check.
+  - `youtube-transcript-api`: "YouTube is blocking requests from your IP"
+    (cloud-provider IP).
+  **Next step:** re-run `python scripts/fetch_youtube.py channels/computerphile`
+  from a residential IP; it will fetch only the missing video.
 
 ### Shorts misclassified
 - **Problem:** Full video metadata doesn't say whether a video is a Short, and

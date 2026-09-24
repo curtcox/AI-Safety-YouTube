@@ -10,8 +10,10 @@ grep locally, or feed to an AI agent.
 
 | Collection | Scope | Videos | Transcripts |
 |---|---|---|---|
-| [Robert Miles AI Safety](channels/robertmilesai/) | Full channel (videos + shorts) | see index | yes |
-| [Computerphile](channels/computerphile/) | Partial: Robert Miles's AI episodes only | see index | yes |
+| [Robert Miles AI Safety](channels/robertmilesai/) | Full channel | 46 videos + 27 shorts | 72/73 (41 human, 31 auto) |
+| [Computerphile](channels/computerphile/) | Partial: Robert Miles's AI episodes only | 23 (+1 pending) | 23/23 (14 human, 9 auto) |
+
+_Counts as of 2026-09-24; each collection's `videos.json` is authoritative._
 
 Candidate channels not yet collected are tracked in [docs/roadmap.md](docs/roadmap.md).
 

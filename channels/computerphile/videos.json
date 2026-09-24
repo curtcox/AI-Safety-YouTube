@@ -1,0 +1,396 @@
+{
+  "videos": [
+    {
+      "id": "oSdPmxRCWws",
+      "title": "Hill Climbing Algorithm & Artificial Intelligence - Computerphile",
+      "url": "https://www.youtube.com/watch?v=oSdPmxRCWws",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2014-09-09",
+      "duration_seconds": 440,
+      "is_short": false,
+      "chapters": 3,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "q6iqI2GIllI",
+      "title": "Rabbits, Faces & Hyperspaces - Computerphile",
+      "url": "https://www.youtube.com/watch?v=q6iqI2GIllI",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2014-09-17",
+      "duration_seconds": 538,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "tlS5Y2vm02c",
+      "title": "Holy Grail of AI (Artificial Intelligence) - Computerphile",
+      "url": "https://www.youtube.com/watch?v=tlS5Y2vm02c",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2015-05-01",
+      "duration_seconds": 460,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "tcdVC4e6EV4",
+      "title": "Deadly Truth of General AI? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=tcdVC4e6EV4",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2015-06-17",
+      "duration_seconds": 510,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "5qfIgCiYlfY",
+      "title": "AI Self Improvement - Computerphile",
+      "url": "https://www.youtube.com/watch?v=5qfIgCiYlfY",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2015-07-24",
+      "duration_seconds": 681,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "7PKx3kS7f4A",
+      "title": "Why Asimov's Laws of Robotics Don't Work - Computerphile",
+      "url": "https://www.youtube.com/watch?v=7PKx3kS7f4A",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2015-11-06",
+      "duration_seconds": 496,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "IB1OvoCNnWY",
+      "title": "AI Safety - Computerphile",
+      "url": "https://www.youtube.com/watch?v=IB1OvoCNnWY",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2016-02-03",
+      "duration_seconds": 363,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "5oXyibEgJr0",
+      "title": "AI's Game Playing Challenge - Computerphile",
+      "url": "https://www.youtube.com/watch?v=5oXyibEgJr0",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2016-03-24",
+      "duration_seconds": 1200,
+      "is_short": false,
+      "chapters": 16,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "4l7Is6vOAOA",
+      "title": "General AI Won't Want You To Fix its Code - Computerphile",
+      "url": "https://www.youtube.com/watch?v=4l7Is6vOAOA",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-02-28",
+      "duration_seconds": 533,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "3TYT1QfdfsM",
+      "title": "AI \"Stop Button\" Problem - Computerphile",
+      "url": "https://www.youtube.com/watch?v=3TYT1QfdfsM",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-03-03",
+      "duration_seconds": 1200,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "AjyM-f8rDpg",
+      "title": "Concrete Problems in AI Safety (Paper) - Computerphile",
+      "url": "https://www.youtube.com/watch?v=AjyM-f8rDpg",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-06-16",
+      "duration_seconds": 541,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "i8r_yShOixM",
+      "title": "AI? Just Sandbox it... - Computerphile",
+      "url": "https://www.youtube.com/watch?v=i8r_yShOixM",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-06-23",
+      "duration_seconds": 461,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "9nktr1MgS-A",
+      "title": "Stop Button Solution? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=9nktr1MgS-A",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-08-03",
+      "duration_seconds": 1425,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "Sw9r8CL98N0",
+      "title": "Generative Adversarial Networks (GANs) - Computerphile",
+      "url": "https://www.youtube.com/watch?v=Sw9r8CL98N0",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2017-10-25",
+      "duration_seconds": 1281,
+      "is_short": false,
+      "chapters": 14,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "py5VRagG6t8",
+      "title": "EXTRA BITS: AI Gridworlds - Computerphile",
+      "url": "https://www.youtube.com/watch?v=py5VRagG6t8",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2018-05-09",
+      "duration_seconds": 1008,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "eElfR_BnL5k",
+      "title": "AI Gridworlds - Computerphile",
+      "url": "https://www.youtube.com/watch?v=eElfR_BnL5k",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2018-05-10",
+      "duration_seconds": 615,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gDqkCxYYDGk",
+      "title": "AI & Logical Induction - Computerphile",
+      "url": "https://www.youtube.com/watch?v=gDqkCxYYDGk",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2018-10-04",
+      "duration_seconds": 1668,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "rURRYI66E54",
+      "title": "AI Language Models & Transformers - Computerphile",
+      "url": "https://www.youtube.com/watch?v=rURRYI66E54",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2019-06-26",
+      "duration_seconds": 1239,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "89A4jGvaaKk",
+      "title": "Unicorn AI - Computerphile",
+      "url": "https://www.youtube.com/watch?v=89A4jGvaaKk",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2019-07-04",
+      "duration_seconds": 716,
+      "is_short": false,
+      "chapters": 3,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "p-6F4rhRYLQ",
+      "title": "More GPT-2, the 'writer' of Unicorn AI - Computerphile",
+      "url": "https://www.youtube.com/watch?v=p-6F4rhRYLQ",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2019-07-17",
+      "duration_seconds": 888,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "AJxLtdur5fc",
+      "title": "GPT-2: Why Didn't They Release It? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=AJxLtdur5fc",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2019-07-24",
+      "duration_seconds": 550,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gQddtTdmG_8",
+      "title": "Vectoring Words (Word Embeddings) - Computerphile",
+      "url": "https://www.youtube.com/watch?v=gQddtTdmG_8",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2019-10-23",
+      "duration_seconds": 1016,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "31rU-VzF5ww",
+      "title": "AI Safety Gym - Computerphile",
+      "url": "https://www.youtube.com/watch?v=31rU-VzF5ww",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2020-01-30",
+      "duration_seconds": 960,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    }
+  ],
+  "playlists": []
+}
