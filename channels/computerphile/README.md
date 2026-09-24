@@ -1,15 +1,16 @@
 # Computerphile (partial)
 
 - **Channel:** [@Computerphile](https://www.youtube.com/@Computerphile)
-- **Scope of this collection:** only Robert Miles's AI-related appearances, taken
-  from the [Computerphile Videos](https://www.youtube.com/playlist?list=PLqL14ZxTTA4fRMts7Af2G8t4Rp17e8MdS)
-  playlist on his own channel. Four non-AI episodes are excluded (see `collection.json`).
-- **Known gap:** that playlist stops around 2020; later Computerphile episodes
-  featuring Rob Miles (if any) are not yet included. See [../../docs/roadmap.md](../../docs/roadmap.md).
-- **Pending:** [GPT3: An Even Bigger Language Model](https://www.youtube.com/watch?v=_8yVOC4ciXc)
-  (2020-07-01) could not be fetched (YouTube bot check); see
-  [problems-and-solutions](../../docs/problems-and-solutions.md).
-- Computerphile has many other AI videos with other presenters; they are out of scope here for now.
+- **Scope of this collection:** partial.
+  - Robert Miles's AI episodes: the [Computerphile Videos](https://www.youtube.com/playlist?list=PLqL14ZxTTA4fRMts7Af2G8t4Rp17e8MdS)
+    playlist on his channel (stops ~2020), plus his later appearances. Four
+    non-AI episodes are excluded. Some of his episodes are general ML
+    (GANs, word embeddings, transformers) and are kept as his work.
+  - AI safety videos by other presenters (control, sleeper agents,
+    sandbagging, jailbreaks, prompt injection, adversarial examples, deepfakes, …).
+  - Chosen by reviewing every Computerphile title (922 videos, 2026-09-24).
+    The per-video reasons are in `collection.json` (`include`). General
+    AI/ML explainers without a safety angle are out of scope.
 
 <!-- BEGIN GENERATED INDEX -->
 
