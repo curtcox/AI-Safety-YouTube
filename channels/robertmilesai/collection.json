@@ -15,5 +15,5 @@
     "https://www.youtube.com/playlist?list=PLqL14ZxTTA4dVNrttmcS6ASPWLwg4iMOJ"
   ],
   "exclude": [],
-  "description_trim_after": "(?i)thanks? to (all )?(my|our) (wonderful|amazing|excellent)? ?patrons"
+  "description_trim_after": "(?i)(with )?thanks?( again)? to (all )?(my|our) [\\w ]{0,30}?(patrons|patreon supporters|supporters)"
 }

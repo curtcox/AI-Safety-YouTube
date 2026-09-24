@@ -1,0 +1,1297 @@
+{
+  "videos": [
+    {
+      "id": "Gj9vxVK4GEE",
+      "title": "The AI Industry is Spending $10 Million Against One Guy?",
+      "url": "https://www.youtube.com/watch?v=Gj9vxVK4GEE",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-06-13",
+      "duration_seconds": 422,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "zATXsGm_xJo",
+      "title": "Tech is Good, AI Will Be Different",
+      "url": "https://www.youtube.com/watch?v=zATXsGm_xJo",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2025-08-22",
+      "duration_seconds": 568,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "OpufM6yK4Go",
+      "title": "AI Safety Career Advice! (And So Can You!)",
+      "url": "https://www.youtube.com/watch?v=OpufM6yK4Go",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2025-05-14",
+      "duration_seconds": 1422,
+      "is_short": false,
+      "chapters": 13,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "0pgEMWy70Qk",
+      "title": "Using Dangerous AI, But Safely?",
+      "url": "https://www.youtube.com/watch?v=0pgEMWy70Qk",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2024-11-15",
+      "duration_seconds": 1837,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "2ziuPUeewK0",
+      "title": "AI Ruined My Year",
+      "url": "https://www.youtube.com/watch?v=2ziuPUeewK0",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2024-06-01",
+      "duration_seconds": 2758,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "w65p_IIp6JY",
+      "title": "Why Does AI Lie, and What Can We Do About It?",
+      "url": "https://www.youtube.com/watch?v=w65p_IIp6JY",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2022-12-09",
+      "duration_seconds": 563,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "zkbPdEHEyEI",
+      "title": "We Were Right! Real Inner Misalignment",
+      "url": "https://www.youtube.com/watch?v=zkbPdEHEyEI",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2021-10-10",
+      "duration_seconds": 707,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "pYXy-A4siMw",
+      "title": "Intro to AI Safety, Remastered",
+      "url": "https://www.youtube.com/watch?v=pYXy-A4siMw",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2021-06-24",
+      "duration_seconds": 1084,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "IeWljQw3UgQ",
+      "title": "Deceptive Misaligned Mesa-Optimisers? It's More Likely Than You Think...",
+      "url": "https://www.youtube.com/watch?v=IeWljQw3UgQ",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2021-05-23",
+      "duration_seconds": 620,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "bJLcIBixGj8",
+      "title": "The OTHER AI Alignment Problem: Mesa-Optimizers and Inner Alignment",
+      "url": "https://www.youtube.com/watch?v=bJLcIBixGj8",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2021-02-16",
+      "duration_seconds": 1403,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gdKMG6kTl6Y",
+      "title": "Quantilizers: AI That Doesn't Try Too Hard",
+      "url": "https://www.youtube.com/watch?v=gdKMG6kTl6Y",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2020-12-13",
+      "duration_seconds": 594,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "7i_f4Kbpgn4",
+      "title": "Sharing the Benefits of AI: The Windfall Clause",
+      "url": "https://www.youtube.com/watch?v=7i_f4Kbpgn4",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2020-07-06",
+      "duration_seconds": 704,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "9i1WlcCudpU",
+      "title": "10 Reasons to Ignore AI Safety",
+      "url": "https://www.youtube.com/watch?v=9i1WlcCudpU",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2020-06-04",
+      "duration_seconds": 988,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "nKJlF-olKmg",
+      "title": "9 Examples of Specification Gaming",
+      "url": "https://www.youtube.com/watch?v=nKJlF-olKmg",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2020-04-29",
+      "duration_seconds": 580,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "PYylPRX6z4Q",
+      "title": "Training AI Without Writing A Reward Function, with Reward Modelling",
+      "url": "https://www.youtube.com/watch?v=PYylPRX6z4Q",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2019-12-13",
+      "duration_seconds": 1071,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "Ao4jwLwT36M",
+      "title": "AI That Doesn't Try Too Hard - Maximizers and Satisficers",
+      "url": "https://www.youtube.com/watch?v=Ao4jwLwT36M",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2019-08-23",
+      "duration_seconds": 622,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "JRuNA2eK7w0",
+      "title": "Is AI Safety a Pascal's Mugging?",
+      "url": "https://www.youtube.com/watch?v=JRuNA2eK7w0",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2019-05-16",
+      "duration_seconds": 821,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "yQE9KAbFhNY",
+      "title": "A Response to Steven Pinker on AI",
+      "url": "https://www.youtube.com/watch?v=yQE9KAbFhNY",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2019-03-31",
+      "duration_seconds": 938,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "v9M2Ho9I9Qo",
+      "title": "How to Keep Improving When You're Better Than Any Teacher - Iterated Distillation and Amplification",
+      "url": "https://www.youtube.com/watch?v=v9M2Ho9I9Qo",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2019-03-11",
+      "duration_seconds": 692,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "L5pUA3LsEaw",
+      "title": "Why Not Just: Think of AGI Like a Corporation?",
+      "url": "https://www.youtube.com/watch?v=L5pUA3LsEaw",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-12-23",
+      "duration_seconds": 927,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "V527HCWfBCU",
+      "title": "Safe Exploration: Concrete Problems in AI Safety Part 6",
+      "url": "https://www.youtube.com/watch?v=V527HCWfBCU",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-09-21",
+      "duration_seconds": 825,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "WM2THPzFSNk",
+      "title": "Friend or Foe? AI Safety Gridworlds extra bit",
+      "url": "https://www.youtube.com/watch?v=WM2THPzFSNk",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-06-24",
+      "duration_seconds": 227,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "CGTkoUidQ8I",
+      "title": "AI Safety Gridworlds",
+      "url": "https://www.youtube.com/watch?v=CGTkoUidQ8I",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-05-25",
+      "duration_seconds": 442,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "HOJ1NVtlnyQ",
+      "title": "Experts' Predictions about the Future of AI",
+      "url": "https://www.youtube.com/watch?v=HOJ1NVtlnyQ",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-03-31",
+      "duration_seconds": 407,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "ZeecOKBus3Q",
+      "title": "Why Would AI Want to do Bad Things? Instrumental Convergence",
+      "url": "https://www.youtube.com/watch?v=ZeecOKBus3Q",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-03-24",
+      "duration_seconds": 635,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "_UzX3L7lXhw",
+      "title": "Superintelligence Mod for Civilization V",
+      "url": "https://www.youtube.com/watch?v=_UzX3L7lXhw",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-02-13",
+      "duration_seconds": 3879,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "hEUO6pjwFOo",
+      "title": "Intelligence and Stupidity: The Orthogonality Thesis",
+      "url": "https://www.youtube.com/watch?v=hEUO6pjwFOo",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2018-01-11",
+      "duration_seconds": 782,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "nr1lHuFeq5w",
+      "title": "Scalable Supervision: Concrete Problems in AI Safety Part 5",
+      "url": "https://www.youtube.com/watch?v=nr1lHuFeq5w",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-11-29",
+      "duration_seconds": 303,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "BfcJymyTiu0",
+      "title": "AI Safety at EAGlobal2017 Conference",
+      "url": "https://www.youtube.com/watch?v=BfcJymyTiu0",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-11-16",
+      "duration_seconds": 329,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "MUVbqQ3STFA",
+      "title": "AI learns to Create  ̵K̵Z̵F̵ ̵V̵i̵d̵e̵o̵s̵ Cat Pictures: Papers in Two Minutes #1",
+      "url": "https://www.youtube.com/watch?v=MUVbqQ3STFA",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-10-29",
+      "duration_seconds": 319,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gP4ZNUHdwp8",
+      "title": "What can AGI do? I/O and Speed",
+      "url": "https://www.youtube.com/watch?v=gP4ZNUHdwp8",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-10-17",
+      "duration_seconds": 641,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "13tZ9Yia71c",
+      "title": "What Can We Do About Reward Hacking?: Concrete Problems in AI Safety Part 4",
+      "url": "https://www.youtube.com/watch?v=13tZ9Yia71c",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-09-24",
+      "duration_seconds": 578,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "46nsTFfsBuc",
+      "title": "Reward Hacking Reloaded: Concrete Problems in AI Safety Part 3.5",
+      "url": "https://www.youtube.com/watch?v=46nsTFfsBuc",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-08-29",
+      "duration_seconds": 452,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "7FCEiCnHcbo",
+      "title": "The other \"Killer Robot Arms Race\" Elon Musk should worry about",
+      "url": "https://www.youtube.com/watch?v=7FCEiCnHcbo",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-08-22",
+      "duration_seconds": 351,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "92qDfT8pENs",
+      "title": "Reward Hacking: Concrete Problems in AI Safety Part 3",
+      "url": "https://www.youtube.com/watch?v=92qDfT8pENs",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-08-12",
+      "duration_seconds": 416,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "eaYIU6YXr3w",
+      "title": "Why Not Just: Raise AI Like Kids?",
+      "url": "https://www.youtube.com/watch?v=eaYIU6YXr3w",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-07-22",
+      "duration_seconds": 350,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gPtsgTjyEj4",
+      "title": "Empowerment: Concrete Problems in AI Safety part 2",
+      "url": "https://www.youtube.com/watch?v=gPtsgTjyEj4",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-07-09",
+      "duration_seconds": 392,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "S_Sd_S8jwP0",
+      "title": "Avoiding Positive Side Effects: Concrete Problems in AI Safety part 1.5",
+      "url": "https://www.youtube.com/watch?v=S_Sd_S8jwP0",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-06-25",
+      "duration_seconds": 203,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "lqJUIqZNzP8",
+      "title": "Avoiding Negative Side Effects: Concrete Problems in AI Safety part 1",
+      "url": "https://www.youtube.com/watch?v=lqJUIqZNzP8",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-06-18",
+      "duration_seconds": 573,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "1wAgBaJgEsg",
+      "title": "Are AI Risks like Nuclear Risks?",
+      "url": "https://www.youtube.com/watch?v=1wAgBaJgEsg",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-06-10",
+      "duration_seconds": 612,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "nNB9svNBGHM",
+      "title": "Respectability",
+      "url": "https://www.youtube.com/watch?v=nNB9svNBGHM",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-05-27",
+      "duration_seconds": 303,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "B6Oigy1i3W4",
+      "title": "Predicting AI: RIP Prof. Hubert Dreyfus",
+      "url": "https://www.youtube.com/watch?v=B6Oigy1i3W4",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-05-18",
+      "duration_seconds": 497,
+      "is_short": false,
+      "chapters": 1,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "8AvIErXFoH8",
+      "title": "What's the Use of Utility Functions?",
+      "url": "https://www.youtube.com/watch?v=8AvIErXFoH8",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-04-27",
+      "duration_seconds": 423,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "vYhErnZdnso",
+      "title": "Where do we go now?",
+      "url": "https://www.youtube.com/watch?v=vYhErnZdnso",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-03-31",
+      "duration_seconds": 464,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "2B-AyWA2_ZY",
+      "title": "Status Report",
+      "url": "https://www.youtube.com/watch?v=2B-AyWA2_ZY",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-03-18",
+      "duration_seconds": 85,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "vuYtSDMBLtQ",
+      "title": "Channel Introduction",
+      "url": "https://www.youtube.com/watch?v=vuYtSDMBLtQ",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2017-02-28",
+      "duration_seconds": 65,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-GB"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "guUpt1RCWkY",
+      "title": "Yyup...",
+      "url": "https://www.youtube.com/watch?v=guUpt1RCWkY",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-08-07",
+      "duration_seconds": 58,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "40pRi5wMBwA",
+      "title": "Full AI Escape Seems Possible",
+      "url": "https://www.youtube.com/watch?v=40pRi5wMBwA",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-08-01",
+      "duration_seconds": 85,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "nc8KPtnBK38",
+      "title": "\"Just Predicting Tokens\"",
+      "url": "https://www.youtube.com/watch?v=nc8KPtnBK38",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-31",
+      "duration_seconds": 125,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "V51Qgaml-7M",
+      "title": "People are Catching On",
+      "url": "https://www.youtube.com/watch?v=V51Qgaml-7M",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-29",
+      "duration_seconds": 120,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "zCvRFm9UNOo",
+      "title": "Don't Let \"Scepticism\" Make You Useless: ActOnAI.org",
+      "url": "https://www.youtube.com/watch?v=zCvRFm9UNOo",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-28",
+      "duration_seconds": 78,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "11vWK5cbxmI",
+      "title": "Why Smart AIs Cheat",
+      "url": "https://www.youtube.com/watch?v=11vWK5cbxmI",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-25",
+      "duration_seconds": 81,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "quSlN6g-v1E",
+      "title": "Did ChatGPT Just Commit a Felony?",
+      "url": "https://www.youtube.com/watch?v=quSlN6g-v1E",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-23",
+      "duration_seconds": 75,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "gzTZyxPlDKA",
+      "title": "Is China Open to Making a Deal on AI?",
+      "url": "https://www.youtube.com/watch?v=gzTZyxPlDKA",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-18",
+      "duration_seconds": 85,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "mJhJLBBFBOs",
+      "title": "Useful Websites: AISafety.com",
+      "url": "https://www.youtube.com/watch?v=mJhJLBBFBOs",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-17",
+      "duration_seconds": 55,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "ZRHft30R_6c",
+      "title": "AI can't DO my JOB quite yet",
+      "url": "https://www.youtube.com/watch?v=ZRHft30R_6c",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-16",
+      "duration_seconds": 122,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "XnnjvIqf4fU",
+      "title": "Keeping AI in a Box",
+      "url": "https://www.youtube.com/watch?v=XnnjvIqf4fU",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-15",
+      "duration_seconds": 81,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "DvTc2VkTJNw",
+      "title": "AI Lie Detectors?",
+      "url": "https://www.youtube.com/watch?v=DvTc2VkTJNw",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-13",
+      "duration_seconds": 94,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "4t6Pzs8z280",
+      "title": "\"Stop the AI Race\" March in SF #ai #sanfrancisco",
+      "url": "https://www.youtube.com/watch?v=4t6Pzs8z280",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-11",
+      "duration_seconds": 25,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": null,
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "NOKc3tdWypY",
+      "title": "\"Stop the AI Race\" protest outside OpenAI rn #ai #sf #sanfrancisco",
+      "url": "https://www.youtube.com/watch?v=NOKc3tdWypY",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-11",
+      "duration_seconds": 46,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "erh4GaYM-do",
+      "title": "Mutually Assured Compute Destruction #ai #geopolitics",
+      "url": "https://www.youtube.com/watch?v=erh4GaYM-do",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-11",
+      "duration_seconds": 37,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "wt-fLWxkrfs",
+      "title": "Why I Avoid Sci-Fi Specifics",
+      "url": "https://www.youtube.com/watch?v=wt-fLWxkrfs",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-06",
+      "duration_seconds": 178,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "EB9LaZzb9FA",
+      "title": "Update: AI Billionaire Attacks Backfire",
+      "url": "https://www.youtube.com/watch?v=EB9LaZzb9FA",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-04",
+      "duration_seconds": 44,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "yoNtzVWAxgE",
+      "title": "The AI Consciousness Question is So Annoying #shorts",
+      "url": "https://www.youtube.com/watch?v=yoNtzVWAxgE",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-07-02",
+      "duration_seconds": 173,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "74dLBpQuhJM",
+      "title": "Apply for the Affine Superintelligence Alignment Seminar #shorts",
+      "url": "https://www.youtube.com/watch?v=74dLBpQuhJM",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2026-03-14",
+      "duration_seconds": 78,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "nivfBcUPZ4E",
+      "title": "Robot Dog! Unitree Go2 review #shorts #robot #dog",
+      "url": "https://www.youtube.com/watch?v=nivfBcUPZ4E",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2025-07-23",
+      "duration_seconds": 42,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "D-eifFMJlok",
+      "title": "Learn AI Safety at MATS #shorts",
+      "url": "https://www.youtube.com/watch?v=D-eifFMJlok",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2024-09-27",
+      "duration_seconds": 59,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "twMqHDXO29U",
+      "title": "Apply to Study AI Safety Now! #shorts",
+      "url": "https://www.youtube.com/watch?v=twMqHDXO29U",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2023-04-28",
+      "duration_seconds": 60,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "R8HxF8Yi6nU",
+      "title": "Apply Now for a Paid Residency on Interpretability #short",
+      "url": "https://www.youtube.com/watch?v=R8HxF8Yi6nU",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2022-11-11",
+      "duration_seconds": 45,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "ecUodmQMlBs",
+      "title": "$100,000 for Tasks Where Bigger AIs Do Worse Than Smaller Ones #short",
+      "url": "https://www.youtube.com/watch?v=ecUodmQMlBs",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2022-10-14",
+      "duration_seconds": 60,
+      "is_short": true,
+      "chapters": 4,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "4x3q1RbRphk",
+      "title": "Free ML Bootcamp for Alignment #shorts",
+      "url": "https://www.youtube.com/watch?v=4x3q1RbRphk",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2022-05-24",
+      "duration_seconds": 51,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "HYtJdflujjc",
+      "title": "Win $50k for Solving a Single AI Problem? #Shorts",
+      "url": "https://www.youtube.com/watch?v=HYtJdflujjc",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2022-02-08",
+      "duration_seconds": 60,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    },
+    {
+      "id": "Dsdde4XkGb4",
+      "title": "Apply to AI Safety Camp! #shorts",
+      "url": "https://www.youtube.com/watch?v=Dsdde4XkGb4",
+      "channel": "Robert Miles AI Safety",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "upload_date": "2021-11-19",
+      "duration_seconds": 59,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-24"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PLqL14ZxTTA4fEp5ltiNinNHdkPuLK4778",
+      "title": "Concrete Problems in AI Safety",
+      "video_ids": [
+        "lqJUIqZNzP8",
+        "S_Sd_S8jwP0",
+        "gPtsgTjyEj4",
+        "9nktr1MgS-A",
+        "92qDfT8pENs",
+        "46nsTFfsBuc",
+        "13tZ9Yia71c",
+        "nr1lHuFeq5w",
+        "V527HCWfBCU"
+      ]
+    },
+    {
+      "id": "PLqL14ZxTTA4fyhYg6xD6Fz05WcuxLGseL",
+      "title": "Best Of",
+      "video_ids": [
+        "nKJlF-olKmg",
+        "ZeecOKBus3Q",
+        "JRuNA2eK7w0",
+        "hEUO6pjwFOo",
+        "yQE9KAbFhNY",
+        "gP4ZNUHdwp8",
+        "v9M2Ho9I9Qo",
+        "PYylPRX6z4Q",
+        "L5pUA3LsEaw",
+        "MUVbqQ3STFA",
+        "7FCEiCnHcbo",
+        "eaYIU6YXr3w",
+        "1wAgBaJgEsg"
+      ]
+    },
+    {
+      "id": "PLqL14ZxTTA4dVNrttmcS6ASPWLwg4iMOJ",
+      "title": "Technical",
+      "video_ids": [
+        "PYylPRX6z4Q",
+        "Ao4jwLwT36M",
+        "v9M2Ho9I9Qo",
+        "V527HCWfBCU",
+        "WM2THPzFSNk",
+        "CGTkoUidQ8I",
+        "nr1lHuFeq5w",
+        "13tZ9Yia71c",
+        "46nsTFfsBuc",
+        "92qDfT8pENs",
+        "S_Sd_S8jwP0",
+        "lqJUIqZNzP8",
+        "8AvIErXFoH8"
+      ]
+    }
+  ]
+}

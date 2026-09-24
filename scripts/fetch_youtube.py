@@ -41,6 +41,8 @@ AUTO_LANGS = ["en-orig", "en"]
 
 PAUSE_BETWEEN_VIDEOS = 4  # seconds; YouTube returns 429s quickly without this
 RETRY_DELAYS = [30, 60, 120, 240]
+# Transient blocks worth backing off and retrying.
+RETRYABLE = ("429", "Too Many Requests", "confirm you’re not a bot", "confirm you're not a bot")
 
 
 def log(msg):
@@ -68,10 +70,10 @@ def with_retries(fn, what):
             return fn()
         except (yt_dlp.utils.DownloadError, urllib.error.HTTPError) as e:
             msg = str(e)
-            if "429" not in msg and "Too Many Requests" not in msg:
+            if not any(r in msg for r in RETRYABLE):
                 raise
-            log(f"  rate limited: {msg[:120]}")
-    raise RuntimeError(f"giving up on {what} after repeated 429s")
+            log(f"  blocked: {msg[:120]}")
+    raise RuntimeError(f"giving up on {what} after repeated 429s / bot checks")
 
 
 def list_source(url):
@@ -153,7 +155,7 @@ def fetch_video(video_id):
     return info, track, segments
 
 
-def meta_from_info(info, track, collection):
+def meta_from_info(info, track, collection, is_short):
     d = info.get("upload_date") or ""
     return {
         "id": info["id"],
@@ -164,8 +166,7 @@ def meta_from_info(info, track, collection):
         "channel_url": info.get("channel_url"),
         "upload_date": f"{d[:4]}-{d[4:6]}-{d[6:]}" if len(d) == 8 else None,
         "duration_seconds": info.get("duration"),
-        "is_short": "/shorts/" in (info.get("webpage_url") or "")
-        or (info.get("duration") or 999) <= 60,
+        "is_short": is_short,
         "chapters": len(info.get("chapters") or []),
         "transcript": {"source": track[0], "language": track[1]} if track else None,
         "collections": [collection],
@@ -248,7 +249,9 @@ def build_index(coll_dir, manifest):
         out += [row(v) for v in sorted(vids, key=lambda v: v["upload_date"] or "", reverse=True)]
         out.append("")
     for pl in manifest.get("playlists", []):
-        vids = [by_id[i] for i in pl["video_ids"] if i in by_id]
+        # Playlists may include videos from other channels/collections.
+        vids = [by_id.get(i) or read_front_matter(VIDEOS_DIR / f"{i}.md")
+                for i in pl["video_ids"] if i in by_id or (VIDEOS_DIR / f"{i}.md").exists()]
         if not vids:
             continue
         out += [f"### Playlist: [{pl['title']}](https://www.youtube.com/playlist?list={pl['id']}) ({len(vids)})", ""]
@@ -284,12 +287,13 @@ def main():
         return
 
     excluded = {e["id"] for e in config.get("exclude", [])}
-    ids, playlists = [], []
+    ids, playlists, short_ids = [], [], set()
     for src in config["sources"]:
         log(f"listing {src['url']}")
         info, entries = list_source(src["url"])
         src_ids = [e["id"] for e in entries if e["id"] not in excluded]
         ids += [i for i in src_ids if i not in ids]
+        short_ids |= {e["id"] for e in entries if "/shorts/" in (e.get("url") or "")}
         if src.get("as_playlist"):
             playlists.append({"id": info["id"], "title": info.get("title"), "video_ids": src_ids})
     for pl_url in config.get("playlists", []):
@@ -300,6 +304,13 @@ def main():
         })
 
     known = {v["id"]: v for v in manifest["videos"]}
+    for vid, v in known.items():  # reclassify without re-fetching
+        v["is_short"] = vid in short_ids
+        path = VIDEOS_DIR / f"{vid}.md"
+        if path.exists():
+            text = path.read_text(encoding="utf-8")
+            text = re.sub(r"^is_short: \w+$", f"is_short: {json.dumps(v['is_short'])}", text, count=1, flags=re.M)
+            path.write_text(text, encoding="utf-8")
     todo = [i for i in ids if args.refresh or i not in known or not (VIDEOS_DIR / f"{i}.md").exists()]
     if args.limit:
         todo = todo[: args.limit]
@@ -314,7 +325,7 @@ def main():
             log(f"  FAILED: {e}")
             failures.append((vid, str(e)[:200]))
             continue
-        meta = meta_from_info(info, track, coll_name)
+        meta = meta_from_info(info, track, coll_name, vid in short_ids)
         write_video_file(meta, info, segments, config.get("description_trim_after"))
         known[vid] = {k: v for k, v in meta.items() if k != "collections"}
         manifest["videos"] = [known[i] for i in ids if i in known]
