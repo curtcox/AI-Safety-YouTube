@@ -1,0 +1,19 @@
+{
+  "channel": "Robert Miles AI Safety",
+  "channel_url": "https://www.youtube.com/@RobertMilesAI",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@RobertMilesAI/videos"
+    },
+    {
+      "url": "https://www.youtube.com/@RobertMilesAI/shorts"
+    }
+  ],
+  "playlists": [
+    "https://www.youtube.com/playlist?list=PLqL14ZxTTA4fEp5ltiNinNHdkPuLK4778",
+    "https://www.youtube.com/playlist?list=PLqL14ZxTTA4fyhYg6xD6Fz05WcuxLGseL",
+    "https://www.youtube.com/playlist?list=PLqL14ZxTTA4dVNrttmcS6ASPWLwg4iMOJ"
+  ],
+  "exclude": [],
+  "description_trim_after": "(?i)thanks? to (all )?(my|our) (wonderful|amazing|excellent)? ?patrons"
+}

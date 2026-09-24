@@ -1,0 +1,14 @@
+{
+  "channel": "Computerphile",
+  "channel_url": "https://www.youtube.com/@Computerphile",
+  "scope": "Partial: only Robert Miles's appearances, taken from the 'Computerphile Videos' playlist on his own channel. Off-topic (non-AI) episodes are excluded.",
+  "sources": [
+    {"url": "https://www.youtube.com/playlist?list=PLqL14ZxTTA4fRMts7Af2G8t4Rp17e8MdS"}
+  ],
+  "exclude": [
+    {"id": "GSIDS_lvRv4", "reason": "Public Key Cryptography: not AI"},
+    {"id": "MqZgoNRERY8", "reason": "Code Golf & the Bitshift Variations: not AI"},
+    {"id": "sww4gJPse4o", "reason": "Micropython Name Badge: not AI"},
+    {"id": "ijWcl2Rb4_0", "reason": "GNU/Linux & Video Editing: not AI"}
+  ]
+}
