@@ -65,6 +65,12 @@ Add to this whenever something goes wrong or needs a workaround.
 - **Solution:** Classify by source: a video is a Short if the channel's
   `/shorts` tab lists it (its flat-listing URL contains `/shorts/`).
 
+### Browser impersonation
+- **Problem:** yt-dlp warned "no impersonate target is available", and bot
+  checks grew more frequent in later runs (~1 in 3 videos at worst).
+- **Solution:** Install `curl_cffi` (now in `requirements.txt`) so yt-dlp can
+  impersonate a real browser's TLS fingerprint, and pause 8s between videos.
+
 ### Noisy descriptions
 - **Problem:** Descriptions end with long Patreon supporter lists that add
   nothing for research and churn on every refresh. The wording varies
