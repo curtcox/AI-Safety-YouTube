@@ -11,7 +11,7 @@ grep locally, or feed to an AI agent.
 <!-- BEGIN COLLECTIONS -->
 | Collection | Scope | Videos | Shorts | Transcripts (human / auto / none) | Not yet fetched |
 |---|---|---|---|---|---|
-| [AXRP - the AI X-risk Research Podcast](channels/axrpodcast/) | Whole channel | 65 | 3 | 0 / 68 / 0 | 3 |
+| [AXRP - the AI X-risk Research Podcast](channels/axrpodcast/) | Whole channel | 67 | 3 | 0 / 70 / 0 | 1 |
 | [Computerphile](channels/computerphile/) | Partial | 45 | 0 | 15 / 30 / 0 | 0 |
 | [FAR.AI](channels/farairesearch/) | Whole channel | 313 | 5 | 251 / 65 / 2 | 39 |
 | [Rational Animations](channels/rationalanimations/) | Channel, AI videos only | 29 | 72 | 30 / 71 / 0 | 2 |

@@ -1,6 +1,23 @@
 {
   "videos": [
     {
+      "id": "OZAqXlGXdFY",
+      "title": "50 - Eli Lifland on AI 2027",
+      "url": "https://www.youtube.com/watch?v=OZAqXlGXdFY",
+      "channel": "AXRP",
+      "channel_id": "UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "channel_url": "https://www.youtube.com/channel/UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "upload_date": "2026-08-03",
+      "duration_seconds": 9639,
+      "is_short": false,
+      "chapters": 22,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "NMEwiZQK_C4",
       "title": "49 - Caspar Oesterheld on Program Equilibrium",
       "url": "https://www.youtube.com/watch?v=NMEwiZQK_C4",
@@ -317,6 +334,23 @@
       "duration_seconds": 1488,
       "is_short": false,
       "chapters": 8,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4K-lHz2_QGg",
+      "title": "38.0 - Zhijing Jin on LLMs, Causality, and Multi-Agent Systems",
+      "url": "https://www.youtube.com/watch?v=4K-lHz2_QGg",
+      "channel": "AXRP",
+      "channel_id": "UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "channel_url": "https://www.youtube.com/channel/UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "upload_date": "2024-11-14",
+      "duration_seconds": 1362,
+      "is_short": false,
+      "chapters": 9,
       "transcript": {
         "source": "auto",
         "language": "en-orig"
@@ -1324,8 +1358,6 @@
     }
   ],
   "pending": [
-    "OZAqXlGXdFY",
-    "4K-lHz2_QGg",
     "tEge5uo4E-A"
   ]
 }

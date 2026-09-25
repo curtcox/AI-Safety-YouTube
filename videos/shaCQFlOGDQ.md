@@ -45,9 +45,12 @@ retrieved: "2026-09-25"
 ```text
 How should we think about the technical problem of building smarter-than-human AI that does what we want? When and how should AI systems defer to us? Should they have their own goals, and how should those goals be managed? In this episode, Dylan Hadfield-Menell talks about his work on assistance games that formalizes these questions. The first couple years of my PhD program included many long conversations with Dylan that helped shape how I view AI x-risk research, so it was great to have another one in the form of a recorded interview.
 
-Link to the transcript: https://axrp.net/episode/2021/06/08/episode-8-assistance-games-dylan-hadfield-menell.html
-Link to the paper "Cooperative Inverse Reinforcement Learning": https://arxiv.org/abs/1606.03137
-Link to the paper "The Off-Switch Game": https://arxiv.org/abs/1611.08219
+Link to the transcript
+: https://axrp.net/episode/2021/06/08/episode-8-assistance-games-dylan-hadfield-menell.html
+Link to the paper "Cooperative Inverse Reinforcement Learning"
+: https://arxiv.org/abs/1606.03137
+
+Link to the paper "The Off-Switch Game": https://arxiv.org/abs/1611.08219
 Link to the paper "Inverse Reward Design": https://arxiv.org/abs/1711.02827
 Dylan's twitter account: https://twitter.com/dhadfieldmenell
 Link to apply to the MIT EECS graduate program: https://gradapply.mit.edu/eecs/apply/login/?next=/eecs/
