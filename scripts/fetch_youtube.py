@@ -25,7 +25,6 @@ import pathlib
 import re
 import sys
 import time
-import urllib.error
 
 import yt_dlp
 
@@ -68,7 +67,7 @@ def with_retries(fn, what):
             time.sleep(delay)
         try:
             return fn()
-        except (yt_dlp.utils.DownloadError, urllib.error.HTTPError) as e:
+        except Exception as e:  # yt-dlp raises several HTTPError types; match on message
             msg = str(e)
             if not any(r in msg for r in RETRYABLE):
                 raise
