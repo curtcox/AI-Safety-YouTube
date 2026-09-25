@@ -154,6 +154,40 @@
       "retrieved": "2026-09-24"
     },
     {
+      "id": "Z3WMt_ncgUI",
+      "title": "AI Sleeper Agents: How Anthropic Trains and Catches Them",
+      "url": "https://www.youtube.com/watch?v=Z3WMt_ncgUI",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-08-30",
+      "duration_seconds": 739,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "uiPhOk1t3GU",
+      "title": "The story of Omega-L and Omega-W",
+      "url": "https://www.youtube.com/watch?v=uiPhOk1t3GU",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-07-19",
+      "duration_seconds": 715,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "5mco9zAamRk",
       "title": "How to Align AI: Put It in a Sandwich",
       "url": "https://www.youtube.com/watch?v=5mco9zAamRk",
@@ -203,6 +237,23 @@
         "language": "en"
       },
       "retrieved": "2026-09-24"
+    },
+    {
+      "id": "K8p8_VlFHUk",
+      "title": "Goal Misgeneralization: How a Tiny Change Could End Everything",
+      "url": "https://www.youtube.com/watch?v=K8p8_VlFHUk",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-01-14",
+      "duration_seconds": 703,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
     },
     {
       "id": "KUkHhVYv3jU",
@@ -305,6 +356,40 @@
         "language": "en"
       },
       "retrieved": "2026-09-24"
+    },
+    {
+      "id": "jQOBaGka7O0",
+      "title": "Specification Gaming: How AI Can Turn Your Wishes Against You",
+      "url": "https://www.youtube.com/watch?v=jQOBaGka7O0",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2023-12-01",
+      "duration_seconds": 504,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "gpBqw2sTD08",
+      "title": "The Hidden Complexity of Wishes",
+      "url": "https://www.youtube.com/watch?v=gpBqw2sTD08",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2023-09-27",
+      "duration_seconds": 688,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
     },
     {
       "id": "NqmUBZQhOYw",
@@ -477,6 +562,23 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "ZcR4S4KhOHk",
+      "title": "What Technologies Could Empower Dictatorships?",
+      "url": "https://www.youtube.com/watch?v=ZcR4S4KhOHk",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-09-13",
+      "duration_seconds": 117,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "oNHyqwI6Evg",
       "title": "Could an Evil Regime Rule the World Forever?",
       "url": "https://www.youtube.com/watch?v=oNHyqwI6Evg",
@@ -519,6 +621,23 @@
       "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
       "upload_date": "2026-07-29",
       "duration_seconds": 163,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "L6P2uHq_90g",
+      "title": "How We Train AI To Be Creative",
+      "url": "https://www.youtube.com/watch?v=L6P2uHq_90g",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-07-27",
+      "duration_seconds": 160,
       "is_short": true,
       "chapters": 0,
       "transcript": {
@@ -774,6 +893,23 @@
       "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
       "upload_date": "2026-05-30",
       "duration_seconds": 134,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "wuaTSxx1N7U",
+      "title": "Here's how we broke out of the simulation",
+      "url": "https://www.youtube.com/watch?v=wuaTSxx1N7U",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-05-18",
+      "duration_seconds": 148,
       "is_short": true,
       "chapters": 0,
       "transcript": {
@@ -1082,6 +1218,40 @@
       "duration_seconds": 145,
       "is_short": true,
       "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "51heYylJ_Ew",
+      "title": "The Practical Challenges of an AI Moratorium",
+      "url": "https://www.youtube.com/watch?v=51heYylJ_Ew",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-01-31",
+      "duration_seconds": 180,
+      "is_short": true,
+      "chapters": 3,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "xixOrfdHfgk",
+      "title": "How unilaterally pausing AI could backfire",
+      "url": "https://www.youtube.com/watch?v=xixOrfdHfgk",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-01-24",
+      "duration_seconds": 91,
+      "is_short": true,
+      "chapters": 4,
       "transcript": {
         "source": "auto",
         "language": "en-orig"
@@ -1585,5 +1755,9 @@
         "Y2vDwR9rW-0"
       ]
     }
+  ],
+  "pending": [
+    "FRyhyPJlXEA",
+    "hjoKvLQP4hg"
   ]
 }
