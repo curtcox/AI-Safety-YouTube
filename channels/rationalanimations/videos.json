@@ -817,6 +817,23 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "VV8IkJyOYuA",
+      "title": "It looks like aliens are sending us a picture",
+      "url": "https://www.youtube.com/watch?v=VV8IkJyOYuA",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-05-15",
+      "duration_seconds": 139,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "bXf6YHz4YN0",
       "title": "Someone is talking to us by... shifting the luminosity of stars?",
       "url": "https://www.youtube.com/watch?v=bXf6YHz4YN0",
@@ -927,6 +944,23 @@
       "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
       "upload_date": "2026-04-28",
       "duration_seconds": 138,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "uYg01Kb3nnI",
+      "title": "The Most Trustworthy Things: Laws and Kings",
+      "url": "https://www.youtube.com/watch?v=uYg01Kb3nnI",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2026-04-27",
+      "duration_seconds": 110,
       "is_short": true,
       "chapters": 0,
       "transcript": {
@@ -1157,6 +1191,40 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "MLclys1n3rg",
+      "title": "How to catch AI sleeper agents with a simple interpretability trick",
+      "url": "https://www.youtube.com/watch?v=MLclys1n3rg",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-10-11",
+      "duration_seconds": 176,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "_C7dWDOvJpw",
+      "title": "The \"I HATE YOU\" and the hacker AIs",
+      "url": "https://www.youtube.com/watch?v=_C7dWDOvJpw",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-09-27",
+      "duration_seconds": 129,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "TBvVO0WpCyg",
       "title": "Why worry about AI sleeper agents?",
       "url": "https://www.youtube.com/watch?v=TBvVO0WpCyg",
@@ -1184,6 +1252,23 @@
       "duration_seconds": 138,
       "is_short": true,
       "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "GtD_2Waqw-0",
+      "title": "A superhuman AI becomes misaligned",
+      "url": "https://www.youtube.com/watch?v=GtD_2Waqw-0",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-08-03",
+      "duration_seconds": 160,
+      "is_short": true,
+      "chapters": 6,
       "transcript": {
         "source": "auto",
         "language": "en-orig"
@@ -1250,6 +1335,23 @@
       "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
       "upload_date": "2025-06-13",
       "duration_seconds": 98,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "1Y4ToIE8BHA",
+      "title": "We're approaching the AI cliff fast, and we're not prepared",
+      "url": "https://www.youtube.com/watch?v=1Y4ToIE8BHA",
+      "channel": "Rational Animations",
+      "channel_id": "UCgqt1RE0k0MIr0LoyJRy2lg",
+      "channel_url": "https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg",
+      "upload_date": "2025-05-19",
+      "duration_seconds": 129,
       "is_short": true,
       "chapters": 0,
       "transcript": {
