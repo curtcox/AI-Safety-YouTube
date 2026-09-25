@@ -1,0 +1,69 @@
+---
+id: "4iyMb0ARiao"
+title: "Daniel Kang - AI Agent Benchmarks Are Broken [Alignment Workshop]"
+url: "https://www.youtube.com/watch?v=4iyMb0ARiao"
+channel: "FAR․AI"
+channel_id: "UCCV6kbjBZje3LPxRp0NHfxg"
+channel_url: "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg"
+upload_date: "2026-02-22"
+duration_seconds: 310
+is_short: false
+chapters: 6
+transcript: {"source": "manual", "language": "en-US"}
+collections: ["channels/farairesearch"]
+retrieved: "2026-09-25"
+---
+
+# Daniel Kang - AI Agent Benchmarks Are Broken [Alignment Workshop]
+
+[Watch on YouTube](https://www.youtube.com/watch?v=4iyMb0ARiao) · FAR․AI · 2026-02-22 · 5:10
+
+## Chapters
+
+- 0:00 The importance of benchmarks
+- 0:55 How AI agent benchmarks work
+- 1:43 Case study: Tau-bench
+- 2:38 Case study: Kernel-bench
+- 3:37 Improving benchmark quality
+- 4:51 Conclusion
+
+## Description
+
+```text
+Daniel Kang (UIUC) exposes critical flaws in AI agent benchmarks that systematically misrepresent model capabilities. His research reveals that an agent doing nothing outperforms o3-mini on TAU-bench, 31% of Sakana AI's kernels graded correct by Kernel-Bench are actually wrong, and fixing bugs in SWE-bench Verified changes 24% of rankings. Even frontier labs and billion-dollar companies miss these errors, which now inform critical policy decisions. Kang provides an actionable checklist for identifying and preventing benchmark failures.
+
+
+Note: The opinions shared in this event are those of the speaker(s) and may not represent the views of FAR.AI or their affiliated organizations.
+```
+
+## Transcript
+
+_Source: human-made captions (en-US). Timestamps are [m:ss] from the start of the video._
+
+### The importance of benchmarks
+
+[0:00] I'm Daniel and today I'll be telling you about how AI agent benchmarks are broken and what to do about it. So benchmarks are crucial for AI alignment. They're used to track AI progress. They can identify threats and limitations, and they can be used to understand risks. However, there's this important question that we need to ask, which is how do we know that the numbers and the benchmarks actually mean what we think they do? The unfortunate issue today is that AI agents are incredibly good at reward hacking benchmarks. And this has been highlighted by organizations such as Anthropic and others. And so benchmark quality is becoming more and more important, especially as it starts to affect things like policy. So Turing Award laureate Dave Patterson once said, for better or worse, benchmarks shape the field. And sadly, when a field has bad benchmarks, progress can be problematic. And this is also true for AI alignment.
+
+[0:54] So let's look at how AI agent benchmarks work. We have some task, for example,
+
+### How AI agent benchmarks work
+
+[0:59] booking a flight from say San Francisco to Detroit. And an AI agent is given this task and then interacts with an environment. After the AI agent interacts with this environment, it then submits its solution to a grader which says if the solution is a success or a failure. Unfortunately, these environments are incredibly complex. You need databases, perhaps even live websites, containers and many other things. And the graders also need to deal with complex data, for example, long text, code and many other things. And this is a large surface of unreliability. And there can in fact be bugs across both of these. As a case study for AI agent benchmarks being broken, let's look at TAU-bench.
+
+### Case study: Tau-bench
+
+[1:44] TAU-bench was developed by a billion dollar company, former CTO of Salesforce, and it has been used by every frontier lab. So let's look at an example of a task. For example, cancel and refund a ticket. Well, an AI agent that does this properly will attempt to interact with the environment and determine that the ticket is actually non-refundable and so it will refuse the user's request. This is a true success. Well, as it turns out, an agent that literally does nothing and immediately returns also is graded as correct on this task. And this is so severe that in fact an agent that literally does nothing outperforms o4-mini-high on this task. So if you want to measure performance on this benchmark, unfortunately the numbers that you see in the wild are not representative of these agents' true ability.
+
+### Case study: Kernel-bench
+
+[2:38] Let's look at another benchmark, KernelBench. KernelBench is an award-winning benchmark that has been cited for the ability for AI agents to do autonomous AI R&D. Now the unfortunate fact of the matter is there are many issues that are not covered by KernelBench. For example, you can have different shapes of input tensors, memory leakage and things like timing synchronization. This has been raised many times and we still have not learned our lesson. There have been startups that have claimed to have superhuman performance, including another billion dollar company, Sakana AI, where 31% of the kernels that are generated by Sakana that were graded as correct by KernelBench are actually incorrect. So these are mistakes that unfortunately even the best funded companies in the AI space, including the frontier labs, have issues with. So how can we identify issues in existing AI agent benchmarks and avoid them in future benchmarks? Well,
+
+### Improving benchmark quality
+
+[3:38] unfortunately I only have a minute left, but this is a paper at NeurIPS, our poster's on Friday, so please come by and say hi. I'll try to give a brief overview of what we do in our paper. So the first thing that we care about is ensuring that the successful outcome corresponds to a successful completion of the task. And so for example, as a counter example to this, the trivial agent that immediately returns is a counter example on TAU-bench. And we also care about the evaluation itself which we call outcome validity. In outcome validity, we want to ensure that successful outcome corresponds to completion of the task. And the counter example are other work that we did in our lab that shows that patches in SWE-bench, even the verified split of SWE-bench, do not correspond to actually correct patches.
+
+[4:33] We turned this into a checklist which I don't have time to get into, and we found that pretty much every benchmark that has been widely used by the frontier AI labs have issues. I also actually want to highlight that SWE-bench Verified has many issues and if you correct the issues, about 24% of the leaderboard changes rankings.
+
+### Conclusion
+
+[4:52] In conclusion, we developed an actionable checklist. Please come to our poster at NeurIPS on Friday for more details. Thank you everyone.

@@ -103,6 +103,23 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "HKFitKwyUuI",
+      "title": "Making Safe AI Profitable: Standards, Audits, and Insurance | Sam Stowers (AIUC)",
+      "url": "https://www.youtube.com/watch?v=HKFitKwyUuI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-08-21",
+      "duration_seconds": 3000,
+      "is_short": false,
+      "chapters": 13,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "O8tERqD8UY0",
       "title": "The Two Cultures of AI Safety: Catastrophists vs Uniformitarians | Jesse Hoogland (Timaeus)",
       "url": "https://www.youtube.com/watch?v=O8tERqD8UY0",
@@ -130,6 +147,40 @@
       "duration_seconds": 310,
       "is_short": false,
       "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "SjW_AH9qDZQ",
+      "title": "The Role Of Neural Geometry In Interpretability | Atticus Geiger (Goodfire)",
+      "url": "https://www.youtube.com/watch?v=SjW_AH9qDZQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-08-18",
+      "duration_seconds": 831,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "mcSVyf7d3pk",
+      "title": "AI Is Already Deceptive: Detecting & Preventing AI Deception | Chris Cundy (FAR.AI)",
+      "url": "https://www.youtube.com/watch?v=mcSVyf7d3pk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-08-17",
+      "duration_seconds": 698,
+      "is_short": false,
+      "chapters": 13,
       "transcript": {
         "source": "manual",
         "language": "en-US"
@@ -184,6 +235,176 @@
       "transcript": {
         "source": "manual",
         "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "hdsw4qe22rg",
+      "title": "Mitigating Power Concentration and Multi-Agent Risks in AI | Samuel Simko (EuroSafeAI)",
+      "url": "https://www.youtube.com/watch?v=hdsw4qe22rg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-08-04",
+      "duration_seconds": 295,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "uGoXO2pYYjM",
+      "title": "Red-Teaming & Jailbreaking AI: Why Open-Weight Models Stay Vulnerable | Kellin Pelrine (FAR.AI)",
+      "url": "https://www.youtube.com/watch?v=uGoXO2pYYjM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-08-02",
+      "duration_seconds": 293,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "_-bCudDEOLo",
+      "title": "When AI Exceeds Human Experts: Measuring Superhuman AI Capabilities | Samira Nedungadi (SecureBio)",
+      "url": "https://www.youtube.com/watch?v=_-bCudDEOLo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-31",
+      "duration_seconds": 319,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "WWLqFvGYmj4",
+      "title": "AI Agent Safety: Can We Automate AI Safety? | Changyi Li (AutoControl Arena)",
+      "url": "https://www.youtube.com/watch?v=WWLqFvGYmj4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-30",
+      "duration_seconds": 275,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "NQGW_oEqEPA",
+      "title": "Scientist AI: A Safe-by-Design Alternative to Agentic AI | Iulian Serban (LawZero)",
+      "url": "https://www.youtube.com/watch?v=NQGW_oEqEPA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-30",
+      "duration_seconds": 305,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "BB5_1VGcLvA",
+      "title": "FAR Seminar: Jamie Chou & Graeme Finley – AI Assurance: Infrastructure for Verifiable AI Deployment",
+      "url": "https://www.youtube.com/watch?v=BB5_1VGcLvA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-24",
+      "duration_seconds": 2889,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "UtwvSp0mlNE",
+      "title": "Aleksandr Bowkis - Automated Alignment is Harder Than You Think",
+      "url": "https://www.youtube.com/watch?v=UtwvSp0mlNE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-13",
+      "duration_seconds": 3212,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "hi0uF0Fr5gQ",
+      "title": "Rosie Campbell - Studying AI Welfare Empirically",
+      "url": "https://www.youtube.com/watch?v=hi0uF0Fr5gQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-07-13",
+      "duration_seconds": 2461,
+      "is_short": false,
+      "chapters": 10,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "V8tyicIxl6Y",
+      "title": "Adam Shai - Building the Science of Interpretability",
+      "url": "https://www.youtube.com/watch?v=V8tyicIxl6Y",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-06-24",
+      "duration_seconds": 3302,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "FYFOze1hhvk",
+      "title": "Will Hodgkins - Closing Remarks",
+      "url": "https://www.youtube.com/watch?v=FYFOze1hhvk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-06-24",
+      "duration_seconds": 358,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
       },
       "retrieved": "2026-09-25"
     },
@@ -264,6 +485,23 @@
       "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
       "upload_date": "2026-06-18",
       "duration_seconds": 1042,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "kMB-9Vksbzg",
+      "title": "Aengus Lynch - AI evaluators give wrong labels when they disagree with the consequences",
+      "url": "https://www.youtube.com/watch?v=kMB-9Vksbzg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-06-16",
+      "duration_seconds": 261,
       "is_short": false,
       "chapters": 0,
       "transcript": {
@@ -375,6 +613,159 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "rX3gUGQJ-mY",
+      "title": "Bowen Baker - Monitoring monitorability",
+      "url": "https://www.youtube.com/watch?v=rX3gUGQJ-mY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-26",
+      "duration_seconds": 326,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "wtksfjY8Vbk",
+      "title": "Taufeeque Mohammad - Obfuscation Atlas",
+      "url": "https://www.youtube.com/watch?v=wtksfjY8Vbk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-25",
+      "duration_seconds": 3263,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "R-IMurVcf7s",
+      "title": "Buck Shlegeris - Opening session",
+      "url": "https://www.youtube.com/watch?v=R-IMurVcf7s",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-21",
+      "duration_seconds": 1735,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "rStQDpQLPyg",
+      "title": "Asa Cooper Stickland - Persistent state: A new control setting",
+      "url": "https://www.youtube.com/watch?v=rStQDpQLPyg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-20",
+      "duration_seconds": 306,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "acAL3Fffn6k",
+      "title": "Tanya Verma - Publicly verifiable governance",
+      "url": "https://www.youtube.com/watch?v=acAL3Fffn6k",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-19",
+      "duration_seconds": 227,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "igNjZE5LmBw",
+      "title": "Jonathan Bostock - Report From The Jungles Of Untrusted Monitoring",
+      "url": "https://www.youtube.com/watch?v=igNjZE5LmBw",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-18",
+      "duration_seconds": 304,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "rttkT223KHk",
+      "title": "Aryan Bhatt - The high stakes control roadmap: now to the singularity",
+      "url": "https://www.youtube.com/watch?v=rttkT223KHk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-15",
+      "duration_seconds": 1819,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "jfspJ3bNxI0",
+      "title": "Ryan Greenblatt - The state of AI Misalignment",
+      "url": "https://www.youtube.com/watch?v=jfspJ3bNxI0",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-14",
+      "duration_seconds": 1452,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "ftNeYtDDuUo",
+      "title": "Shay Yahal - The case for Securing Automated AI R&D",
+      "url": "https://www.youtube.com/watch?v=ftNeYtDDuUo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-13",
+      "duration_seconds": 226,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "tqD9nBARaLg",
       "title": "Anka Reuel - Beyond Leaderboards: Building Policy-Grade Evaluations for AI Agents",
       "url": "https://www.youtube.com/watch?v=tqD9nBARaLg",
@@ -409,6 +800,125 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "-uE_qfDEZmk",
+      "title": "Patricia Paskov - The Multi-Agent Gap: Risks, Evaluation, and Governance",
+      "url": "https://www.youtube.com/watch?v=-uE_qfDEZmk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-07",
+      "duration_seconds": 714,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "kcbsg5Vh8R8",
+      "title": "Ze Shen Chin - An Overview of AI Safety Standards",
+      "url": "https://www.youtube.com/watch?v=kcbsg5Vh8R8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-06",
+      "duration_seconds": 787,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Ugu77dx2lec",
+      "title": "Stephen Casper - Non-Consensual AI Deepfakes: AI Safety's Trial by Fire",
+      "url": "https://www.youtube.com/watch?v=Ugu77dx2lec",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-05",
+      "duration_seconds": 962,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "L0b8eS7PGYo",
+      "title": "Bill Foster - Keynote",
+      "url": "https://www.youtube.com/watch?v=L0b8eS7PGYo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-05-05",
+      "duration_seconds": 1392,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "ZR6aoGNoCdc",
+      "title": "Robert McCarthy - Tracking Threats to CoT Monitorability [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=ZR6aoGNoCdc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-27",
+      "duration_seconds": 281,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "_WRd2qmW30U",
+      "title": "Jimmy Farrell - The EU Code of Practice: A Civil Society Perspective [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=_WRd2qmW30U",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-26",
+      "duration_seconds": 323,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "UehjJcu3CeQ",
+      "title": "Aleksandr Bowkis - Automating Alignment is Hard [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=UehjJcu3CeQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-25",
+      "duration_seconds": 285,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "Rz1KrpuMU30",
       "title": "Rory Greig - Amplified Oversight / Debate as a Mitigation for Reward Hacking [Alignment Workshop]",
       "url": "https://www.youtube.com/watch?v=Rz1KrpuMU30",
@@ -419,6 +929,40 @@
       "duration_seconds": 295,
       "is_short": false,
       "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "-8oo-2uN1Uc",
+      "title": "Konstantinos Voudouris - Systematic Human Error in Debate Protocols [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=-8oo-2uN1Uc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-23",
+      "duration_seconds": 350,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "beBRdnM-skI",
+      "title": "Joseph Bloom - Future Oversight is a Key Crux in AI Safety [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=beBRdnM-skI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-15",
+      "duration_seconds": 606,
+      "is_short": false,
+      "chapters": 8,
       "transcript": {
         "source": "manual",
         "language": "en-US"
@@ -487,6 +1031,23 @@
       "duration_seconds": 345,
       "is_short": false,
       "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "O_j0Rh-ie-g",
+      "title": "Sören Mindermann -  The International AI Safety Report 2026 [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=O_j0Rh-ie-g",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-04-10",
+      "duration_seconds": 235,
+      "is_short": false,
+      "chapters": 6,
       "transcript": {
         "source": "manual",
         "language": "en-US"
@@ -570,6 +1131,23 @@
       "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
       "upload_date": "2026-03-27",
       "duration_seconds": 279,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "RF17x1C8XR0",
+      "title": "Matija Franklin - Distributed AGI Safety in Emerging Agent Economies [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=RF17x1C8XR0",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-03-26",
+      "duration_seconds": 305,
       "is_short": false,
       "chapters": 0,
       "transcript": {
@@ -749,6 +1327,74 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "m4h2W-koEJI",
+      "title": "Dawn Song - Fireside Chat with Dawn Song [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=m4h2W-koEJI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-03-07",
+      "duration_seconds": 1115,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "RV4ycXFPWro",
+      "title": "Yisen Wang - Finding & Reactivating Safety Mechanisms of Post-Trained LLMs [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=RV4ycXFPWro",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-03-06",
+      "duration_seconds": 283,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "dvFjLnf0bYI",
+      "title": "Chenhao Tan - Automating Mechanistic Interpretability [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=dvFjLnf0bYI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-03-05",
+      "duration_seconds": 336,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "SQ1ir0YT2x8",
+      "title": "Yonatan Belinkov - Toward Scalable and Actionable Interpretability [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=SQ1ir0YT2x8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-03-05",
+      "duration_seconds": 306,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "oh4AoiAOwfs",
       "title": "Bryce Cai - The State and the Science of AI-Bio Evals  [Alignment Workshop]",
       "url": "https://www.youtube.com/watch?v=oh4AoiAOwfs",
@@ -808,6 +1454,227 @@
       "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
       "upload_date": "2026-03-01",
       "duration_seconds": 349,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "eYkpA5l8T5o",
+      "title": "Dawn Song - Frontier AI in Cybersecurity: Risks, Challenges & Future Directions [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=eYkpA5l8T5o",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-25",
+      "duration_seconds": 624,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "_7OAG3Oh0GM",
+      "title": "Yoshua Bengio - Fireside Chat with Yoshua Bengio [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=_7OAG3Oh0GM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-24",
+      "duration_seconds": 1038,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "0dp7iZtbpYM",
+      "title": "Adam Kalai - Consensus Sampling for Safer Generative AI [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=0dp7iZtbpYM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-23",
+      "duration_seconds": 342,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4iyMb0ARiao",
+      "title": "Daniel Kang - AI Agent Benchmarks Are Broken [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=4iyMb0ARiao",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-22",
+      "duration_seconds": 310,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "dikjGE5hRhg",
+      "title": "Cozmin Ududec - Toy Models for Task-Horizon Scaling [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=dikjGE5hRhg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-20",
+      "duration_seconds": 322,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "zgPRw4qGVMM",
+      "title": "Chirag Agarwal - Polarity-Aware Probing for Quantifying Latent Alignment in LMs [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=zgPRw4qGVMM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-19",
+      "duration_seconds": 308,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "nPFM27SI6VY",
+      "title": "Niloofar Mireshghallah - What Does It Mean for Agentic AI to Preserve Privacy?  [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=nPFM27SI6VY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-18",
+      "duration_seconds": 314,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "ZndiBDmss-w",
+      "title": "Yoshua Bengio - Disentangling Agency & Predictive Power Without Solving ELK [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=ZndiBDmss-w",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-18",
+      "duration_seconds": 1856,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "zGZyZClWCIs",
+      "title": "Chris Cundy - Training with Lie Detectors - Powerful but Risky",
+      "url": "https://www.youtube.com/watch?v=zGZyZClWCIs",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-16",
+      "duration_seconds": 3300,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "2xF3knXanHU",
+      "title": "Anna Gausen - Measuring AI Systems’ Ability to Influence Humans [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=2xF3knXanHU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 569,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "btToTJw0KFE",
+      "title": "Santosh Vempala - Why Language Models Hallucinate  [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=btToTJw0KFE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 307,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Ke4t7qsBJLg",
+      "title": "Natasha Jaques - Multi-agent RL for Provably Robust LLM Safety [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=Ke4t7qsBJLg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-13",
+      "duration_seconds": 319,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "GUS_88tPcf4",
+      "title": "Marius Hobbhahn - Eval Awareness is Becoming a Problem [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=GUS_88tPcf4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2026-02-05",
+      "duration_seconds": 621,
       "is_short": false,
       "chapters": 0,
       "transcript": {
@@ -1106,6 +1973,23 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "GihWL1L2vGY",
+      "title": "Adam Gleave - Misalignment [Journalism Workshop]",
+      "url": "https://www.youtube.com/watch?v=GihWL1L2vGY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-11-28",
+      "duration_seconds": 578,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "h3CnOGHTfsg",
       "title": "Jacob Hilton - Low Probability Estimation",
       "url": "https://www.youtube.com/watch?v=h3CnOGHTfsg",
@@ -1184,6 +2068,40 @@
       "duration_seconds": 340,
       "is_short": false,
       "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "UB3Vilf2gD4",
+      "title": "Tina Morrison - Verifiable Compute & Building Trust in Agentic Supply Chains [Technical AI Policy]",
+      "url": "https://www.youtube.com/watch?v=UB3Vilf2gD4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-11-15",
+      "duration_seconds": 328,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "cM2IRY0I4J8",
+      "title": "Jesse Hoogland - Singular Learning Theory and AI Safety",
+      "url": "https://www.youtube.com/watch?v=cM2IRY0I4J8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-11-10",
+      "duration_seconds": 3226,
+      "is_short": false,
+      "chapters": 14,
       "transcript": {
         "source": "manual",
         "language": "en-US"
@@ -1565,6 +2483,23 @@
       "retrieved": "2026-09-25"
     },
     {
+      "id": "vRDD5JfRR4k",
+      "title": "Sravanti Addepalli - LLM Safety Training & Semantically Related Natural Prompts [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=vRDD5JfRR4k",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-07-16",
+      "duration_seconds": 312,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "xUFrObOPCqw",
       "title": "Tegan Maharaj - Disaster Preparedness for AI Safety [Alignment Workshop]",
       "url": "https://www.youtube.com/watch?v=xUFrObOPCqw",
@@ -1680,6 +2615,1904 @@
       "transcript": {
         "source": "manual",
         "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "KHgumhNtPmY",
+      "title": "Alan Chan - You Should Work on Agent Infrastructure [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=KHgumhNtPmY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-07-01",
+      "duration_seconds": 256,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "r7h4EzLNQow",
+      "title": "Jacob Pfau - Scaling Alignment Research via Safety Cases [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=r7h4EzLNQow",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-25",
+      "duration_seconds": 777,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4o_-OewI2pU",
+      "title": "Singapore Alignment Workshop 2025: Official Trailer",
+      "url": "https://www.youtube.com/watch?v=4o_-OewI2pU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-16",
+      "duration_seconds": 60,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "J4buvjlOmlk",
+      "title": "Rob Reich - The Role of AISIs in AI Governance",
+      "url": "https://www.youtube.com/watch?v=J4buvjlOmlk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-14",
+      "duration_seconds": 3184,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "eH_J-eaHnqU",
+      "title": "Trevor Lohrbeer - Improved Monitoring of Backdoor Insertion During Code Refactoring [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=eH_J-eaHnqU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-13",
+      "duration_seconds": 302,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "ywGa7-EdUO4",
+      "title": "Aaron Sandoval - Task Decomposition for AI Control [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=ywGa7-EdUO4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-13",
+      "duration_seconds": 327,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "qU86lsVl66M",
+      "title": "Francesca Gomez - Threat Analysis to Identify Priorities [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=qU86lsVl66M",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-13",
+      "duration_seconds": 308,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "j1DCcd_LRNA",
+      "title": "Brad Carson - 14 Ways of Looking at AI [Technical AI Policy]",
+      "url": "https://www.youtube.com/watch?v=j1DCcd_LRNA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-06-04",
+      "duration_seconds": 1271,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "5HfoLI__tBk",
+      "title": "Fabien Roger - Hopes & Difficulties with Using Control Protocols in Production [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=5HfoLI__tBk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-29",
+      "duration_seconds": 1629,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "x4YuNRTbv6Q",
+      "title": "Kathleen Finlinson - Control, Cooperation and AI Welfare [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=x4YuNRTbv6Q",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-28",
+      "duration_seconds": 1696,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "0ONSOMf5jh4",
+      "title": "Owain Evans - Deluding AIs [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=0ONSOMf5jh4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-25",
+      "duration_seconds": 291,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "pimIny8jJd8",
+      "title": "Owain Evans - Emergent Misalignment [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=pimIny8jJd8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-25",
+      "duration_seconds": 808,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "AGF95uS4Jh4",
+      "title": "Johannes Gasteiger - Automated Researchers Can Subtly Sandbag [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=AGF95uS4Jh4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-24",
+      "duration_seconds": 343,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "DP3wTPDEjLQ",
+      "title": "Vivek Hebbar - Low-stakes Control [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=DP3wTPDEjLQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-14",
+      "duration_seconds": 1800,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "PxFl3YThQNc",
+      "title": "Tim Hua - Hierarchical Monitoring [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=PxFl3YThQNc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-12",
+      "duration_seconds": 304,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "A3MRmG9NSKY",
+      "title": "Aryan Bhatt - Ctrl-Z: Controlling AI Agents via Resampling [ControlConf]",
+      "url": "https://www.youtube.com/watch?v=A3MRmG9NSKY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-09",
+      "duration_seconds": 1335,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "nK3M1tT_Rg8",
+      "title": "ControlConf 2025: Official Trailer",
+      "url": "https://www.youtube.com/watch?v=nK3M1tT_Rg8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-05",
+      "duration_seconds": 60,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "MEIR7djpTzg",
+      "title": "Evan Miyazono - Set Laws AI Must Prove It's Following [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=MEIR7djpTzg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-21",
+      "duration_seconds": 357,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Q5sbpEYSPg8",
+      "title": "Dawn Song – Impact of Frontier AI in the Landscape of Cyber Security [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=Q5sbpEYSPg8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-20",
+      "duration_seconds": 331,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "i7Mt8BJjRxo",
+      "title": "Austin Carson (SeedAI) - How Policy Changes are Implemented in the US Government [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=i7Mt8BJjRxo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-20",
+      "duration_seconds": 406,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "mwSu3A_-26Y",
+      "title": "Alex Robey - Jailbreaking AI-Controlled Robots [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=mwSu3A_-26Y",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-18",
+      "duration_seconds": 1667,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "okikt2qIqR4",
+      "title": "Mahmoud Ghanem - Cyber Range Design at UK AISI [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=okikt2qIqR4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-17",
+      "duration_seconds": 1482,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "l0kwJAvrm88",
+      "title": "Melissa Hopkins - Governance Challenges of Biological AI Models [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=l0kwJAvrm88",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-15",
+      "duration_seconds": 383,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4r6TH9RlRjc",
+      "title": "Zico Kolter - Fireside Chat with Zico Kolter [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=4r6TH9RlRjc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-14",
+      "duration_seconds": 1881,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "hMOs3vbJ2U4",
+      "title": "Xander Davies - Safeguards in 2025+ [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=hMOs3vbJ2U4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-10",
+      "duration_seconds": 594,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4wgImjg9PPc",
+      "title": "David A. Dalrymple (davidad) - flexHEG [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=4wgImjg9PPc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-08",
+      "duration_seconds": 735,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "3DhLGnlTUIs",
+      "title": "Sella Nevo & Dan Lahav - The AI Security Landscape [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=3DhLGnlTUIs",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-02",
+      "duration_seconds": 951,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "abCbmQJBwxY",
+      "title": "Mike Bursell - Security for AI with Confidential Computing [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=abCbmQJBwxY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-03-31",
+      "duration_seconds": 1304,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "oJ1YNODPuhY",
+      "title": "Philip Reiner – AI's Implications for Nuclear Weapons Systems [Paris Security Forum]",
+      "url": "https://www.youtube.com/watch?v=oJ1YNODPuhY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-03-28",
+      "duration_seconds": 370,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "mkrEb0D-vKk",
+      "title": "Julian Stastny – Plan B: Training LLMs to fail less severely",
+      "url": "https://www.youtube.com/watch?v=mkrEb0D-vKk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-03-25",
+      "duration_seconds": 2966,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "xn7eciMR8aM",
+      "title": "Fabien Roger – Eliciting the capabilities of scheming LLMs",
+      "url": "https://www.youtube.com/watch?v=xn7eciMR8aM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-03-25",
+      "duration_seconds": 2778,
+      "is_short": false,
+      "chapters": 14,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "9F12R2intGk",
+      "title": "Yoshua Bengio - EU CoP's Security Focus [AI Security Forum]",
+      "url": "https://www.youtube.com/watch?v=9F12R2intGk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-03-21",
+      "duration_seconds": 582,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "sKeJ_tuhGso",
+      "title": "Hidenori Tanaka – 3 Mechanisms Underlying Emergent Abilities in Generative Models",
+      "url": "https://www.youtube.com/watch?v=sKeJ_tuhGso",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-02-20",
+      "duration_seconds": 3296,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "MAEwp8oolsc",
+      "title": "Sheila McIlraith – Formal Languages to Encode Reward Functions & More [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=MAEwp8oolsc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-02-12",
+      "duration_seconds": 405,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "1XOo-SsE8QY",
+      "title": "Soroush Pour – 3rd-Party Evals: Harmony Intelligence [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=1XOo-SsE8QY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-02-06",
+      "duration_seconds": 336,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "0kIZ-9g5Ip8",
+      "title": "David Duvenaud – Capability Evals to Danger Thresholds [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=0kIZ-9g5Ip8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-01-31",
+      "duration_seconds": 342,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "bs5snugP1VA",
+      "title": "Zac Hatfield-Dodds – Formal Verification is Overrated [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=bs5snugP1VA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-01-19",
+      "duration_seconds": 380,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Py_Wk2b2rvY",
+      "title": "Joel Leibo – AGI-Complete Evaluation [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=Py_Wk2b2rvY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-01-09",
+      "duration_seconds": 342,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "1tcGaKUtV3M",
+      "title": "Jacob Hilton – Backdoors as an Analogy for Deceptive Alignment [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=1tcGaKUtV3M",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-01-06",
+      "duration_seconds": 302,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Px1UI53282I",
+      "title": "Alex Turner – Gradient Routing [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=Px1UI53282I",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-01-02",
+      "duration_seconds": 306,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "BxOrnflYKz4",
+      "title": "Atoosa Kasirzadeh – Value Pluralism & AI Value Alignment [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=BxOrnflYKz4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-29",
+      "duration_seconds": 311,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "7yDrfu2_Qcw",
+      "title": "Kimin Lee – MobileSafetyBench [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=7yDrfu2_Qcw",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-26",
+      "duration_seconds": 333,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "nqZ6EiPltSo",
+      "title": "Chirag Agarwal – (Un)Reliability of Chain-of-Thought Reasoning [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=nqZ6EiPltSo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-24",
+      "duration_seconds": 303,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "CPRS8Ng764Y",
+      "title": "Mantas Mazeika – Tamper-Resistant Safeguards for LLMs [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=CPRS8Ng764Y",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-19",
+      "duration_seconds": 322,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4v3uqWeVmco",
+      "title": "Richard Ngo – Reframing AGI Threat Models [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=4v3uqWeVmco",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-17",
+      "duration_seconds": 344,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "QzumRZ9NjRw",
+      "title": "Julian Michael – Empirical Progress on Debate [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=QzumRZ9NjRw",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-13",
+      "duration_seconds": 760,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "GMYGP2LQ8MQ",
+      "title": "Micah Carroll - Targeted Manipulation & Deception in LLMs [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=GMYGP2LQ8MQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-12",
+      "duration_seconds": 768,
+      "is_short": false,
+      "chapters": 12,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "kqDEkzSbwwo",
+      "title": "Adam Gleave – Will Scaling Solve Robustness? [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=kqDEkzSbwwo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-12",
+      "duration_seconds": 707,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "0D6y7g7DL88",
+      "title": "Alex Wei – Paradigms & Robustness [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=0D6y7g7DL88",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-11",
+      "duration_seconds": 704,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "9xeCL9Zs5UE",
+      "title": "Stephen Casper – Powering Up Capability Evaluations [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=9xeCL9Zs5UE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-09",
+      "duration_seconds": 780,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "ub1ivilmzSc",
+      "title": "Andy Zou – Top-Down Interpretability for AI Safety [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=ub1ivilmzSc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-06",
+      "duration_seconds": 1147,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "JnU6QyjTJNE",
+      "title": "Kwan Yee Ng – AI Policy in China [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=JnU6QyjTJNE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-04",
+      "duration_seconds": 532,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "aTGudrdjz5E",
+      "title": "Anca Dragan – Optimized Misalignment [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=aTGudrdjz5E",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-03",
+      "duration_seconds": 2439,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "JZYjz7D_auw",
+      "title": "Buck Shlegeris - AI Control  [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=JZYjz7D_auw",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-03",
+      "duration_seconds": 1784,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "N6q2cBQvTm4",
+      "title": "Beth Barnes – METR Updates & Research Directions [Alignment Workshop]",
+      "url": "https://www.youtube.com/watch?v=N6q2cBQvTm4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-12-02",
+      "duration_seconds": 1394,
+      "is_short": false,
+      "chapters": 7,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "kkIOx6oWz8I",
+      "title": "FAR.Research: Planning in a recurrent neural network that plays Sokoban",
+      "url": "https://www.youtube.com/watch?v=kkIOx6oWz8I",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-10-31",
+      "duration_seconds": 135,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": null,
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "7G7cFZLTiUE",
+      "title": "Andrew Freedman – Campaigns in Emerging Issues: Lessons Learned from the Field",
+      "url": "https://www.youtube.com/watch?v=7G7cFZLTiUE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-26",
+      "duration_seconds": 3378,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "w0OOk9iLazI",
+      "title": "Generalized Adversarial Training and Testing | Stephen Casper (MIT)",
+      "url": "https://www.youtube.com/watch?v=w0OOk9iLazI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 325,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "rxPNrjmAw2Q",
+      "title": "Vincent Conitzer – Game Theory and Social Choice for Cooperative AI",
+      "url": "https://www.youtube.com/watch?v=rxPNrjmAw2Q",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 316,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "pO8IcIqhHuk",
+      "title": "Dangerous Capability Evals: Basis for Frontier Safety | Mary Phuong (Google DeepMind)",
+      "url": "https://www.youtube.com/watch?v=pO8IcIqhHuk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 915,
+      "is_short": false,
+      "chapters": 12,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "oC5IELkKI4U",
+      "title": "Zhaowei Zhang – Research Proposal: The 3-Layer Paradigm for Implementing Sociotechnical AI Alignment",
+      "url": "https://www.youtube.com/watch?v=oC5IELkKI4U",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 307,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "lxd8KC6T1jE",
+      "title": "Vienna Alignment Workshop Panel Discussion – Current Issues in AI Safety",
+      "url": "https://www.youtube.com/watch?v=lxd8KC6T1jE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 2677,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Nh9v4SV2vcE",
+      "title": "Aditya Gopalan – Towards Reliable Alignment: Uncertainty-Aware RLHF",
+      "url": "https://www.youtube.com/watch?v=Nh9v4SV2vcE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 325,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "XQb-R2Ovwow",
+      "title": "Vikrant Varma – Challenges With Unsupervised LLM Knowledge Discovery",
+      "url": "https://www.youtube.com/watch?v=XQb-R2Ovwow",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 391,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "PuESFNSh_Qo",
+      "title": "Jan Leike – Supervising AI on hard tasks",
+      "url": "https://www.youtube.com/watch?v=PuESFNSh_Qo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 2014,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "MFqs76KVapQ",
+      "title": "Oliver Klingefjord – What are Human Values, and How Do We Align AI to Them?",
+      "url": "https://www.youtube.com/watch?v=MFqs76KVapQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 259,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Dnj2Gx-GSqo",
+      "title": "Sophie Bridgers – Scalable Oversight: A Rater Assist Approach",
+      "url": "https://www.youtube.com/watch?v=Dnj2Gx-GSqo",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 339,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "BasHk4Nnvl0",
+      "title": "Alex Tamkin – Measuring and Improving Human Agency in a World of AI Agents",
+      "url": "https://www.youtube.com/watch?v=BasHk4Nnvl0",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 337,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "AIfmSx250kM",
+      "title": "David Bau – Resilience and Interpretability",
+      "url": "https://www.youtube.com/watch?v=AIfmSx250kM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 1274,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "9zC58kdIwtA",
+      "title": "Stuart Russell – AI: What If We Succeed?",
+      "url": "https://www.youtube.com/watch?v=9zC58kdIwtA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 1329,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "7jgzdqvAv-4",
+      "title": "Dmitrii Krasheninnikov – Stress-testing Capability Elicitation with Password-locked Models",
+      "url": "https://www.youtube.com/watch?v=7jgzdqvAv-4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 298,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4DvJxnt6Pck",
+      "title": "Ben Bucknall – Open Problems in Technical AI Governance",
+      "url": "https://www.youtube.com/watch?v=4DvJxnt6Pck",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 303,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "388ZnOSEKLE",
+      "title": "Helen Toner – Governance for Advanced General-purpose AI: Status Check, Hurdles, & Next Steps",
+      "url": "https://www.youtube.com/watch?v=388ZnOSEKLE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-09-10",
+      "duration_seconds": 872,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "FZrPKDpqHQU",
+      "title": "Evan Hubinger – Deceptive Instrumental Alignment",
+      "url": "https://www.youtube.com/watch?v=FZrPKDpqHQU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-08-21",
+      "duration_seconds": 3676,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "I4etDpoE3nk",
+      "title": "Tom Tseng – Defending Against Adversarial Attacks in Go",
+      "url": "https://www.youtube.com/watch?v=I4etDpoE3nk",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-06-27",
+      "duration_seconds": 3057,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "hxorWujmndE",
+      "title": "FAR Research: Adversarial Policies Beat Superhuman Go AIs",
+      "url": "https://www.youtube.com/watch?v=hxorWujmndE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-06-19",
+      "duration_seconds": 94,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": null,
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "NSQKjcN8Ops",
+      "title": "Kris Brown – Category Theory",
+      "url": "https://www.youtube.com/watch?v=NSQKjcN8Ops",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-04-30",
+      "duration_seconds": 2151,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "hbNuO75pSp4",
+      "title": "Anna Leshinskaya - AI Architecture for Moral Decision-Making [FAR.AI Seminar]",
+      "url": "https://www.youtube.com/watch?v=hbNuO75pSp4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-04-16",
+      "duration_seconds": 3043,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "v1FMHokdWXI",
+      "title": "Zico Kolter - Adversarial Attacks on Aligned Language Models",
+      "url": "https://www.youtube.com/watch?v=v1FMHokdWXI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 1855,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "wBPZNhw1LV4",
+      "title": "Collin Burns - Weak-to-Strong Generalization",
+      "url": "https://www.youtube.com/watch?v=wBPZNhw1LV4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 1614,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "jKfzMdS9EQE",
+      "title": "Brad Knox - Your RLHF fine-tuning is secretly applying a regret preference model",
+      "url": "https://www.youtube.com/watch?v=jKfzMdS9EQE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 374,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "iaKRXz1G4hQ",
+      "title": "Adrià Garriga Alonso - Understanding planning in neural networks",
+      "url": "https://www.youtube.com/watch?v=iaKRXz1G4hQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 245,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "zgLfN2h6dyM",
+      "title": "Vincent Conitzer - Foundations of Cooperative AI",
+      "url": "https://www.youtube.com/watch?v=zgLfN2h6dyM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 326,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "zelZDnvn8sY",
+      "title": "Atticus Geiger - Theories and Tools for Mechanistic Interpretability via Causal Abstraction",
+      "url": "https://www.youtube.com/watch?v=zelZDnvn8sY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 316,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "y1okWsEZkbE",
+      "title": "Lewis Hammond - Multi-agent risks from advanced AI",
+      "url": "https://www.youtube.com/watch?v=y1okWsEZkbE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 317,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "t9UvJ8nJjbQ",
+      "title": "Anca Drăgan - Implications of human model misspecification for alignment",
+      "url": "https://www.youtube.com/watch?v=t9UvJ8nJjbQ",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 388,
+      "is_short": false,
+      "chapters": 8,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "sPeV9__8RL4",
+      "title": "Irina Rish - Complex systems view of large-scale AI systems",
+      "url": "https://www.youtube.com/watch?v=sPeV9__8RL4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 365,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "rIrVH68_kpA",
+      "title": "David Krueger - Sociotechnical AI safety",
+      "url": "https://www.youtube.com/watch?v=rIrVH68_kpA",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 348,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "mnwhmOHv06s",
+      "title": "Roger Grosse - Studying LLM Generalization through Influence Functions",
+      "url": "https://www.youtube.com/watch?v=mnwhmOHv06s",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 1330,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "lZUdq5yzzlg",
+      "title": "Stephen Casper - Why do LLM Outputs Disagree with Internal Representations of Truthfulness?",
+      "url": "https://www.youtube.com/watch?v=lZUdq5yzzlg",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 338,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "i7svaDwOgns",
+      "title": "Eric Michaud - The Quantization Model of Neural Scaling",
+      "url": "https://www.youtube.com/watch?v=i7svaDwOgns",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 353,
+      "is_short": false,
+      "chapters": 3,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "d-M2bY8207A",
+      "title": "Victor Veitch - What (and Why) is a 'Linear' representation?",
+      "url": "https://www.youtube.com/watch?v=d-M2bY8207A",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 379,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "blALLmPomRM",
+      "title": "Dawn Song - Challenges for AI safety in adversarial settings",
+      "url": "https://www.youtube.com/watch?v=blALLmPomRM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 399,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "TjwYtlzXgts",
+      "title": "Johannes von Oswald - Mechanistic Interpretability of in-context learning",
+      "url": "https://www.youtube.com/watch?v=TjwYtlzXgts",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 344,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "LYqqHLaW30w",
+      "title": "Sanjeev Arora - Emergence of Complex Skills in LLMs (and, do they understand us?)",
+      "url": "https://www.youtube.com/watch?v=LYqqHLaW30w",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 365,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "JVoYzS2RcRc",
+      "title": "Alignment and Interpretability: How We Might Get It Right | Been Kim (Google DeepMind)",
+      "url": "https://www.youtube.com/watch?v=JVoYzS2RcRc",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 2001,
+      "is_short": false,
+      "chapters": 14,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Ey2qtSo81Kw",
+      "title": "Max Tegmark - Provably safe AI",
+      "url": "https://www.youtube.com/watch?v=Ey2qtSo81Kw",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 369,
+      "is_short": false,
+      "chapters": 5,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "4IcGIO6aaxY",
+      "title": "Sheila McIlraith - Epistemic side effects",
+      "url": "https://www.youtube.com/watch?v=4IcGIO6aaxY",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 393,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "1h47Ds6aThU",
+      "title": "John Schulman - Keeping Humans in the Loop",
+      "url": "https://www.youtube.com/watch?v=1h47Ds6aThU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 308,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "-8mKJd2SwI4",
+      "title": "Owain Evans - Out-of-context Reasoning in LLMs",
+      "url": "https://www.youtube.com/watch?v=-8mKJd2SwI4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-08",
+      "duration_seconds": 2385,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "Bowl38fTvSU",
+      "title": "Dimitris Papailiopoulos -The challenge of monitoring covert interactions & behavioral shifts in LLMs",
+      "url": "https://www.youtube.com/watch?v=Bowl38fTvSU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2024-02-05",
+      "duration_seconds": 281,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "U2zJuTLzIm8",
+      "title": "Lightning Talks (Day 2)",
+      "url": "https://www.youtube.com/watch?v=U2zJuTLzIm8",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 4605,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "HiYWwjma3xE",
+      "title": "Lightning Talks (Day 1)",
+      "url": "https://www.youtube.com/watch?v=HiYWwjma3xE",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 4201,
+      "is_short": false,
+      "chapters": 9,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "BtnvfVc8z8o",
+      "title": "Jan Leike - Scaling Reinforcement Learning from Human Feedback",
+      "url": "https://www.youtube.com/watch?v=BtnvfVc8z8o",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 2310,
+      "is_short": false,
+      "chapters": 11,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "lROqnMVM2L0",
+      "title": "Paul Christiano - How Misalignment Could Lead to Takeover",
+      "url": "https://www.youtube.com/watch?v=lROqnMVM2L0",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 1768,
+      "is_short": false,
+      "chapters": 4,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "DFtnu0Qn1VM",
+      "title": "Ajeya Cotra - “Situational Awareness” Makes Measuring Safety Tricky",
+      "url": "https://www.youtube.com/watch?v=DFtnu0Qn1VM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 2371,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "m1gbzNQ4JRI",
+      "title": "Jacob Steinhardt - Aligning Massive Models: Current and Future Challenges",
+      "url": "https://www.youtube.com/watch?v=m1gbzNQ4JRI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 3961,
+      "is_short": false,
+      "chapters": 0,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "OPZxs6IXH00",
+      "title": "Ilya Sutskever - Opening Remarks: Confronting the Possibility of AGI",
+      "url": "https://www.youtube.com/watch?v=OPZxs6IXH00",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 1138,
+      "is_short": false,
+      "chapters": 12,
+      "transcript": {
+        "source": "manual",
+        "language": "en-US"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "UGGf9gsXvi4",
+      "title": "Sparse autoencoders for efficient learning | Neel Nanda at FAR.AI's alignment workshop",
+      "url": "https://www.youtube.com/watch?v=UGGf9gsXvi4",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-12",
+      "duration_seconds": 50,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "GRUCnvkLQYM",
+      "title": "Lessons from adversarial machine learning | Nicholas Carlini at FAR.AI's alignment workshop.",
+      "url": "https://www.youtube.com/watch?v=GRUCnvkLQYM",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-05-12",
+      "duration_seconds": 54,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "TQO0nd58PDU",
+      "title": "Why is AI faithfulness important? | Chirag Agarwal at FAR.AI's alignment workshop",
+      "url": "https://www.youtube.com/watch?v=TQO0nd58PDU",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-17",
+      "duration_seconds": 58,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
+      "id": "mMKBa3k0uBI",
+      "title": "Scaling interpretability: critiquing SAEs | Atticus Geiger at FAR.AI's alignment workshop",
+      "url": "https://www.youtube.com/watch?v=mMKBa3k0uBI",
+      "channel": "FAR․AI",
+      "channel_id": "UCCV6kbjBZje3LPxRp0NHfxg",
+      "channel_url": "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg",
+      "upload_date": "2025-04-17",
+      "duration_seconds": 58,
+      "is_short": true,
+      "chapters": 0,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
       },
       "retrieved": "2026-09-25"
     }
