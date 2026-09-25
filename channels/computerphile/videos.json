@@ -579,6 +579,23 @@
       "retrieved": "2026-09-24"
     },
     {
+      "id": "r1XbEmM02Z0",
+      "title": "Defining Harm for Ai Systems - Computerphile",
+      "url": "https://www.youtube.com/watch?v=r1XbEmM02Z0",
+      "channel": "Computerphile",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "channel_url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "upload_date": "2023-07-31",
+      "duration_seconds": 1045,
+      "is_short": false,
+      "chapters": 6,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    },
+    {
       "id": "zn2ukSnDqSg",
       "title": "ChatGPT Jailbreak - Computerphile",
       "url": "https://www.youtube.com/watch?v=zn2ukSnDqSg",
@@ -749,5 +766,6 @@
       "retrieved": "2026-09-24"
     }
   ],
-  "playlists": []
+  "playlists": [],
+  "pending": []
 }

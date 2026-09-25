@@ -12,8 +12,8 @@ grep locally, or feed to an AI agent.
 | Collection | Scope | Videos | Shorts | Transcripts (human / auto / none) | Not yet fetched |
 |---|---|---|---|---|---|
 | [AXRP - the AI X-risk Research Podcast](channels/axrpodcast/) | Whole channel | 63 | 3 | 0 / 66 / 0 | 0 |
-| [Computerphile](channels/computerphile/) | Partial | 44 | 0 | 15 / 29 / 0 | 0 |
-| [FAR.AI](channels/farairesearch/) | Whole channel | 262 | 4 | 216 / 48 / 2 | 0 |
+| [Computerphile](channels/computerphile/) | Partial | 45 | 0 | 15 / 30 / 0 | 0 |
+| [FAR.AI](channels/farairesearch/) | Whole channel | 299 | 5 | 240 / 62 / 2 | 53 |
 | [Rational Animations](channels/rationalanimations/) | Channel, AI videos only | 24 | 67 | 25 / 66 / 0 | 0 |
 | [Robert Miles AI Safety](channels/robertmilesai/) | Whole channel | 46 | 27 | 41 / 31 / 1 | 0 |
 <!-- END COLLECTIONS -->
