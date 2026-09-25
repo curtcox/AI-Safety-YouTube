@@ -45,7 +45,8 @@ How should we scientifically think about the impact of AI on human civilization,
 Note: this episode was recorded before  this story emerged of a man committing suicide after discussions with a language-model-based chatbot, that included discussion of the possibility of him killing himself.
 
 Patreon: https://www.patreon.com/axrpodcast
-Ko-fi: https://ko-fi.com/axrpodcast
+
+Ko-fi: https://ko-fi.com/axrpodcast
 
 Topics we discuss, and timestamps:
 -  0:00:36 - 'Reform' AI alignment
@@ -64,15 +65,18 @@ Topics we discuss, and timestamps:
   - 2:22:04 - How Scott finds AI research
 - 2:24:53 - Following Scott's research
 
-The transcript: https://axrp.net/episode/2023/04/11/episode-20-reform-ai-alignment-scott-aaronson.html
+The transcript
+: https://axrp.net/episode/2023/04/11/episode-20-reform-ai-alignment-scott-aaronson.html
 
 Links to Scott's things:
-- Personal website: https://scottaaronson.com/
+
+- Personal website: https://scottaaronson.com/
 - Book, Quantum Computing Since Democritus: https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/
 - Blog, Shtetl-Optimized: https://scottaaronson.blog/
 
 Writings we discuss:
-- Reform AI Alignment: https://scottaaronson.blog/?p=6821
+
+- Reform AI Alignment: https://scottaaronson.blog/?p=6821
 - Planting Undetectable Backdoors in Machine Learning Models: https://arxiv.org/abs/2204.06974
 ```
 

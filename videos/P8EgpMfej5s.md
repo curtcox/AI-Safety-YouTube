@@ -47,8 +47,10 @@ Topics we discuss, and timestamps:
 - 01:37:05 - Misunderstandings of Stuart's approach
 - 01:44:13 - Following Stuart's work
 
-The transcript: https://axrp.net/episode/2022/09/03/episode-18-concept-extrapolation-stuart-armstrong.html
-Stuart's startup, Aligned AI: https://www.aligned-ai.com/
+The transcript
+: https://axrp.net/episode/2022/09/03/episode-18-concept-extrapolation-stuart-armstrong.html
+Stuart's startup, Aligned AI
+: https://www.aligned-ai.com/
 
 Research we discuss:
 - The Concept Extrapolation sequence: https://www.alignmentforum.org/s/u9uawicHx7Ng7vwxA

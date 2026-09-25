@@ -40,7 +40,8 @@ retrieved: "2026-09-25"
 Lots of people in the field of machine learning study 'interpretability', developing tools that they say give us useful information about neural networks. But how do we know if meaningful progress is actually being made? What should we want out of these tools? In this episode, I speak to Stephen Casper about these questions, as well as about a benchmark he's co-developed to evaluate whether interpretability tools can find 'Trojan horses' hidden inside neural nets.
 
 Patreon: https://www.patreon.com/axrpodcast
-Ko-fi: https://ko-fi.com/axrpodcast
+
+Ko-fi: https://ko-fi.com/axrpodcast
 
 Topics we discuss, and timestamps:
 - 00:00:42 - Interpretability for engineers
@@ -57,15 +58,18 @@ Topics we discuss, and timestamps:
 - 01:46:07 - Interpretability for shaping policy
 - 01:53:55 - Following Casper's work
 
-The transcript: https://axrp.net/episode/2023/05/02/episode-21-interpretability-for-engineers-stephen-casper.html
+The transcript
+: https://axrp.net/episode/2023/05/02/episode-21-interpretability-for-engineers-stephen-casper.html
 
 Links for Casper:
-- Personal website: https://stephencasper.com
+
+- Personal website: https://stephencasper.com
 - Twitter: https://twitter.com/StephenLCasper
 - Electronic mail: scasper [at] mit [dot] edu
 
 Research we discuss:
-- The Engineer's Interpretability Sequence: https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7
+
+- The Engineer's Interpretability Sequence: https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7
 - Benchmarking Interpretability Tools for Deep Neural Networks: https://arxiv.org/abs/2302.10894
 - Adversarial Policies beat Superhuman Go AIs: https://goattack.far.ai/
 - Adversarial Examples Are Not Bugs, They Are Features: https://arxiv.org/abs/1905.02175

@@ -33,11 +33,19 @@ retrieved: "2026-09-25"
 ```text
 One approach to creating useful AI systems is to watch humans doing a task, infer what they're trying to do, and then try to do that well. The simplest way to infer what the humans are trying to do is to assume there's one goal that they share, and that they're optimally achieving the goal. This has the problem that humans aren't actually optimal at achieving the goals they pursue. We could instead code in the exact way in which humans behave suboptimally, except that we don't know that either. In this episode, I talk with Rohin Shah about his paper about learning the ways in which humans are suboptimal at the same time as learning what goals they pursue: why it's hard, how he tried to do it, how well he did, and why it matters.
 
-Link to the paper - On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference: https://arxiv.org/abs/1906.09624
-Link to the transcript: https://axrp.net/episode/2020/12/11/episode-2-learning-human-biases-rohin-shah.html
-The Alignment Newsletter: https://rohinshah.com/alignment-newsletter/
-Rohin's contributions to the AI alignment forum: https://www.alignmentforum.org/users/rohinmshah
-Rohin's website: https://rohinshah.com/
+Link to the paper - On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference
+: https://arxiv.org/abs/1906.09624
+
+Link to the transcript
+: https://axrp.net/episode/2020/12/11/episode-2-learning-human-biases-rohin-shah.html
+
+The Alignment Newsletter
+: https://rohinshah.com/alignment-newsletter/
+
+Rohin's contributions to the AI alignment forum
+: https://www.alignmentforum.org/users/rohinmshah
+
+Rohin's website: https://rohinshah.com/
 ```
 
 ## Transcript

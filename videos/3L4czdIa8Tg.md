@@ -49,7 +49,8 @@ retrieved: "2026-09-25"
 Why would advanced AI systems pose an existential risk, and what would it look like to develop safer systems? In this episode, I interview Paul Christiano about his views of how AI could be so dangerous, what bad AI scenarios could look like, and what he thinks about various techniques to reduce this risk.
 
  Topics we discuss, and timestamps (due to mp3 compression, the timestamps may be tens of seconds off):
-00:00:38 - How AI may pose an existential threat
+
+00:00:38 - How AI may pose an existential threat
 00:13:36 - AI timelines
 00:24:49 - Why we might build risky AI
 00:33:58 - Takeoff speeds
@@ -73,8 +74,10 @@ Why would advanced AI systems pose an existential risk, and what would it look l
 02:46:08 - Some favorite organizations
 02:48:21 - Following Paul's work
 
-The transcript: https://axrp.net/episode/2021/12/02/episode-12-ai-xrisk-paul-christiano.html
-Paul's blog posts on AI alignment: https://ai-alignment.com/
+The transcript
+: https://axrp.net/episode/2021/12/02/episode-12-ai-xrisk-paul-christiano.html
+Paul's blog posts on AI alignment
+: https://ai-alignment.com/
 
 Material that we mention:
  - Cold Takes - The Most Important Century: https://www.cold-takes.com/most-important-century/

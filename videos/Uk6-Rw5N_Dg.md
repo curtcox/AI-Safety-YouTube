@@ -49,12 +49,14 @@ retrieved: "2026-09-25"
 Recently, OpenAI made a splash by announcing a new "Superalignment" team. Lead by Jan Leike and Ilya Sutskever, the team would consist of top researchers, attempting to solve alignment for superintelligent AIs in four years by figuring out how to build a trustworthy human-level AI alignment researcher, and then using it to solve the rest of the problem. But what does this plan actually involve? In this episode, I talk to Jan Leike about the plan and the challenges it faces.
 
 Patreon: patreon.com/axrpodcast
-Ko-fi: ko-fi.com/axrpodcast
+
+Ko-fi: ko-fi.com/axrpodcast
 
 Art by @hamishdoodles 
 
 Topics we discuss, and timestamps:
-- 0:00:37 - The superalignment team
+
+- 0:00:37 - The superalignment team
 - 0:02:10 - What's a human-level automated alignment researcher?
   - 0:06:59 - The gap between human-level automated alignment researchers and superintelligence
   - 0:18:39 - What does it do?
@@ -80,12 +82,14 @@ Topics we discuss, and timestamps:
 The transcript:  axrp.net/episode/2023/07/27/episode-24-superalignment-jan-leike.html
 
 Links for Jan and OpenAI:
-- OpenAI jobs: openai.com/careers
+
+- OpenAI jobs: openai.com/careers
 - Jan's substack: aligned.substack.com
 - Jan's twitter: twitter.com/janleike 
 
 Links to research and other writings we discuss:
-- Introducing Superalignment: openai.com/blog/introducing-superalignment
+
+- Introducing Superalignment: openai.com/blog/introducing-superalignment
 - Let's Verify Step by Step (process-based feedback on math): arxiv.org/abs/2305.20050
 - Planning for AGI and beyond: openai.com/blog/planning-for-agi-and-beyond
 - Self-critiquing models for assisting human evaluators: arxiv.org/abs/2206.05802

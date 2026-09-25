@@ -46,12 +46,14 @@ retrieved: "2026-09-25"
 What can we learn about advanced deep learning systems by understanding how humans learn and form values over their lifetimes? Will superhuman AI look like ruthless coherent utility optimization, or more like a mishmash of contextually activated desires? This episode's guest, Quintin Pope, has been thinking about these questions as a leading researcher in the shard theory community. We talk about what shard theory is, what it says about humans and neural networks, and what the implications are for making AI safe.
 
 Patreon: patreon.com/axrpodcast
-Ko-fi: ko-fi.com/axrpodcast
+
+Ko-fi: ko-fi.com/axrpodcast
 
 Episode art by @hamishdoodles 
 
 Topics we discuss, and timestamps:
-- 0:00:42 - Why understand human value formation? 
+
+- 0:00:42 - Why understand human value formation? 
   - 0:19:59 - Why not design methods to align to arbitrary values?
 - 0:27:22 - Postulates about human brains
   - 0:36:20 - Sufficiency of the postulates
@@ -70,16 +72,19 @@ Topics we discuss, and timestamps:
   - 3:13:45 - Why do shard theorists not work on replicating human childhoods?
 - 3:25:53 - Following shardy research
 
-The transcript: https://axrp.net/episode/2023/06/15/episode-22-shard-theory-quintin-pope.html
+The transcript
+: https://axrp.net/episode/2023/06/15/episode-22-shard-theory-quintin-pope.html
 
 Shard theorist links:
- - Quintin's LessWrong profile: https://www.lesswrong.com/users/quintin-pope
+
+ - Quintin's LessWrong profile: https://www.lesswrong.com/users/quintin-pope
  - Alex Turner's LessWrong profile: https://www.lesswrong.com/users/turntrout
  - Shard theory Discord: https://discord.gg/AqYkK7wqAG
  - EleutherAI Discord: https://discord.gg/eleutherai
 
 Research we discuss:
- - The Shard Theory Sequence: https://www.lesswrong.com/s/nyEFg3AuJpdAozmoX
+
+ - The Shard Theory Sequence: https://www.lesswrong.com/s/nyEFg3AuJpdAozmoX
  - Pretraining Language Models with Human Preferences: https://arxiv.org/abs/2302.08582
  - Inner alignment in salt-starved rats: https://www.lesswrong.com/posts/wcNEXDHowiWkRxDNv/inner-alignment-in-salt-starved-rats
  - Intro to Brain-like AGI Safety Sequence: https://www.lesswrong.com/s/HzcM2dkCq7fwXBej8

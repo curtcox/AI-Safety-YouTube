@@ -42,14 +42,20 @@ Topics we discuss:
 00:54:33 - Power-seeking and alignment
 01:12:05 - Future work and about Alex
 
-The transcript: https://axrp.net/episode/2021/09/25/episode-11-attainable-utility-power-alex-turner.html
-Alex on the AI Alignment Forum: https://www.alignmentforum.org/users/turntrout
-Alex's Google Scholar page: https://scholar.google.com/citations?user=thAHiVcAAAAJ&hl=en&oi=ao
-Conservative Agency via Attainable Utility Preservation: https://arxiv.org/abs/1902.09725
-Optimal Policies Tend to Seek Power: https://arxiv.org/abs/1912.01683
+The transcript
+: https://axrp.net/episode/2021/09/25/episode-11-attainable-utility-power-alex-turner.html
+Alex on the AI Alignment Forum
+: https://www.alignmentforum.org/users/turntrout
+Alex's Google Scholar page
+: https://scholar.google.com/citations?user=thAHiVcAAAAJ&hl=en&oi=ao
+Conservative Agency via Attainable Utility Preservation
+: https://arxiv.org/abs/1902.09725
+Optimal Policies Tend to Seek Power
+: https://arxiv.org/abs/1912.01683
 
 Other works discussed:
- - Avoiding Side Effects by Considering Future Tasks: https://arxiv.org/abs/2010.07877
+
+ - Avoiding Side Effects by Considering Future Tasks: https://arxiv.org/abs/2010.07877
  - The "Reframing Impact" Sequence: https://www.alignmentforum.org/s/7CdoznhJaLEKHwvJW
  - The "Risks from Learned Optimization" Sequence: https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB
  - Concrete Approval-Directed Agents: https://ai-alignment.com/concrete-approval-directed-agents-89e247df7f1b

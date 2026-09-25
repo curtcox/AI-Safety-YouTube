@@ -41,11 +41,13 @@ retrieved: "2026-09-25"
 Is there some way we can detect bad behaviour in our AI system without having to know exactly what it looks like? In this episode, I speak with Mark Xu about mechanistic anomaly detection: a research direction based on the idea of detecting strange things happening in neural networks, in the hope that that will alert us of potential treacherous turns. We both talk about the core problems of relating these mechanistic anomalies to bad behaviour, as well as the paper "Formalizing the presumption of independence", which formulates the problem of formalizing heuristic mathematical reasoning, in the hope that this will let us mathematically define "mechanistic anomalies".
 
 Patreon: patreon.com/axrpodcast
-Ko-fi: ko-fi.com/axrpodcast
+
+Ko-fi: ko-fi.com/axrpodcast
 
 Episode art by @hamishdoodles 
 
-Topics we discuss, and timestamps:
+
+Topics we discuss, and timestamps:
 - 0:00:38 - Mechanistic anomaly detection 
   - 0:09:28 - Are all bad things mechanistic anomalies, and vice versa?
   - 0:18:12 - Are responses to novel situations mechanistic anomalies?
@@ -63,12 +65,14 @@ Episode art by @hamishdoodles
 The transcript:  axrp.net/episode/2023/07/24/episode-23-mechanistic-anomaly-detection-mark-xu.html
 
 ARC links:
-- Website: alignment.org
+
+- Website: alignment.org
 - Theory blog: alignment.org/blog
 - Hiring page: alignment.org/hiring
 
 Research we discuss:
-- Formalizing the presumption of independence: arxiv.org/abs/2211.06738
+
+- Formalizing the presumption of independence: arxiv.org/abs/2211.06738
 - Eliciting Latent Knowledge (aka ELK): alignmentforum.org/posts/qHCDysDnvhteW7kRd/arc-s-first-technical-report-eliciting-latent-knowledge
 - Mechanistic Anomaly Detection and ELK: alignmentforum.org/posts/vwt3wKXWaCvqZyF74/mechanistic-anomaly-detection-and-elk
 - Can we efficiently explain model behaviours? alignmentforum.org/posts/dQvxMZkfgqGitWdkb/can-we-efficiently-explain-model-behaviors

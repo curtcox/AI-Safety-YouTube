@@ -41,9 +41,11 @@ Many people in the AI alignment space have heard of AI safety via debate - check
 - 00:49:10 - Uncertainty Estimation for Language Reward Models
 - 01:00:26 - Following Geoffrey's work, and working with him
 
-The transcript: https://axrp.net/episode/2022/07/01/episode-16-preparing-for-debate-ai-geoffrey-irving.html
+The transcript
+: https://axrp.net/episode/2022/07/01/episode-16-preparing-for-debate-ai-geoffrey-irving.html
 
-Geoffrey's twitter: https://twitter.com/geoffreyirving
+Geoffrey's twitter
+: https://twitter.com/geoffreyirving
 
 Research we discuss:
 - Red Teaming Language Models With Language Models: https://arxiv.org/abs/2202.03286

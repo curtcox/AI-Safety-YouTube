@@ -76,9 +76,11 @@ Topics we discuss, and timestamps:
  - 01:35:14 - Bridge rules and malign priors
  - 01:45:27 - Following Vanessa's work   
 
-The transcript: https://axrp.net/episode/2022/04/05/episode-14-infra-bayesian-physicalism-vanessa-kosoy.html
+The transcript
+: https://axrp.net/episode/2022/04/05/episode-14-infra-bayesian-physicalism-vanessa-kosoy.html
 
- Vanessa on the Alignment Forum: https://www.alignmentforum.org/users/vanessa-kosoy
+ Vanessa on the Alignment Forum
+: https://www.alignmentforum.org/users/vanessa-kosoy
 
 Research that we discuss:
  - Infra-Bayesian physicalism: a formal theory of naturalized induction - https://www.alignmentforum.org/posts/gHgs2e2J5azvGFatb/infra-bayesian-physicalism-a-formal-theory-of-naturalized

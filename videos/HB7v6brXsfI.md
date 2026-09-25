@@ -48,8 +48,10 @@ retrieved: "2026-09-25"
 ```text
 The theory of sequential decision-making has a problem: how can we deal with situations where we have some hypotheses about the environment we're acting in, but its exact form might be outside the range of possibilities we can possibly consider? Relatedly, how do we deal with situations where the environment can simulate what we'll do in the future, and put us in better or worse situations now depending on what we'll do then? Today's episode features Vanessa Kosoy talking about infra-Bayesianism, the mathematical framework she developed with Alex Appel that modifies Bayesian decision theory to succeed in these types of situations.
 
-Link to the sequence of posts - Infra-Bayesianism: https://www.alignmentforum.org/s/CmrW8fCmSLK7E25sa
-Link to the transcript: https://axrp.net/episode/2021/03/10/episode-5-infra-bayesianism-vanessa-kosoy.html
+Link to the sequence of posts - Infra-Bayesianism
+: https://www.alignmentforum.org/s/CmrW8fCmSLK7E25sa
+Link to the transcript
+: https://axrp.net/episode/2021/03/10/episode-5-infra-bayesianism-vanessa-kosoy.html
 Vanessa Kosoy's Alignment Forum profile: https://www.alignmentforum.org/users/vanessa-kosoy
 ```
 

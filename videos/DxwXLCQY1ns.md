@@ -48,7 +48,8 @@ retrieved: "2026-09-25"
 How should we think about artificial general intelligence (AGI), and the risks it might pose? What constraints exist on technical solutions to the problem of aligning superhuman AI systems with human intentions? In this episode, I talk to Richard Ngo about his report analyzing AGI safety from first principles, and recent conversations he had with Eliezer Yudkowsky about the difficulty of AI alignment.
 
 Topics we discuss, and timestamps:
-00:00:40 - The nature of intelligence and AGI
+
+00:00:40 - The nature of intelligence and AGI
 00:01:18 - The nature of intelligence
 00:06:09 - AGI: what and how
 00:13:30 - Single vs collective AI minds
@@ -73,13 +74,19 @@ Topics we discuss, and timestamps:
 01:28:26 - The world approaching AGI
 01:30:41 - Following Richard's work
 
-The transcript: https://axrp.net/episode/2022/03/31/episode-13-first-principles-agi-safety-richard-ngo.html
-Richard on the Alignment Forum: https://www.alignmentforum.org/users/ricraz
-Richard on Twitter: https://twitter.com/RichardMCNgo
-The AGI Safety Fundamentals course: https://www.eacambridge.org/agi-safety-fundamentals
+The transcript
+: https://axrp.net/episode/2022/03/31/episode-13-first-principles-agi-safety-richard-ngo.html
+
+Richard on the Alignment Forum
+: https://www.alignmentforum.org/users/ricraz
+Richard on Twitter
+: https://twitter.com/RichardMCNgo
+The AGI Safety Fundamentals course
+: https://www.eacambridge.org/agi-safety-fundamentals
 
 Materials that we mention:
- - AGI Safety from First Principles: https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ
+
+ - AGI Safety from First Principles: https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ
  - Conversations with Eliezer Yudkowsky: https://www.alignmentforum.org/s/n945eovrA3oDueqtq
  - The Bitter Lesson: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
  - Metaphors We Live By: https://en.wikipedia.org/wiki/Metaphors_We_Live_By

@@ -58,11 +58,14 @@ Why does anybody care about natural abstractions? Do they somehow relate to math
 01:20:47 - The shape of the research landscape
 01:34:59 - Following John's work
 
-The transcript - https://axrp.net/episode/2022/05/23/episode-15-natural-abstractions-john-wentworth.html
-John on LessWrong - https://www.lesswrong.com/users/johnswentworth
+The transcript
+ - https://axrp.net/episode/2022/05/23/episode-15-natural-abstractions-john-wentworth.html
+John on LessWrong
+ - https://www.lesswrong.com/users/johnswentworth
 
 Research that we discuss:
- - Alignment by default - contains the natural abstraction hypothesis - https://www.alignmentforum.org/posts/Nwgdq6kHke5LY692J/alignment-by-default#Unsupervised__Natural_Abstractions
+
+ - Alignment by default - contains the natural abstraction hypothesis - https://www.alignmentforum.org/posts/Nwgdq6kHke5LY692J/alignment-by-default#Unsupervised__Natural_Abstractions
  - The telephone theorem - https://www.alignmentforum.org/posts/jJf4FrfiQdDGg7uco/information-at-a-distance-is-mediated-by-deterministic
  - Generalizing Koopman-Pitman-Darmois - https://www.alignmentforum.org/posts/tGCyRQigGoqA4oSRo/generalizing-koopman-pitman-darmois
  - The plan - https://www.alignmentforum.org/posts/3L46WGauGpr7nYubu/the-plan

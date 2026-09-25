@@ -38,7 +38,8 @@ retrieved: "2026-09-25"
 Being an agent can get loopy quickly. For instance, imagine that we're playing chess and I'm trying to decide what move to make. Your next move influences the outcome of the game, and my guess of that influences my move, which influences your next move, which influences the outcome of the game. How can we model these dependencies in a general way, without baking in primitive notions of 'belief' or 'agency'? Today, I talk with Scott Garrabrant about his recent work on finite factored sets that aims to answer this question.
 
 Topics we discuss:
-00:00:43 - finite factored sets' relation to Pearlian causality and abstraction
+
+00:00:43 - finite factored sets' relation to Pearlian causality and abstraction
 00:16:00 - partitions and factors in finite factored sets
 00:26:45 - orthogonality and time in finite factored sets
 00:34:49 - using finite factored sets
@@ -49,9 +50,12 @@ Topics we discuss:
 01:28:34 - relation to Cartesian frames
 01:37:36 - how to follow Scott's work
 
-Link to the transcript: https://axrp.net/episode/2021/06/24/episode-9-finite-factored-sets-scott-garrabrant.html
-Link to a transcript of Scott's talk on finite factored sets: https://www.alignmentforum.org/posts/N5Jm6Nj4HkNKySA5Z/finite-factored-sets
-Scott's LessWrong account: https://www.lesswrong.com/users/scott-garrabrant
+Link to the transcript
+: https://axrp.net/episode/2021/06/24/episode-9-finite-factored-sets-scott-garrabrant.html
+Link to a transcript of Scott's talk on finite factored sets
+: https://www.alignmentforum.org/posts/N5Jm6Nj4HkNKySA5Z/finite-factored-sets
+Scott's LessWrong account
+: https://www.lesswrong.com/users/scott-garrabrant
 
 Other work mentioned in the discussion:
  - Causality, by Judea Pearl: http://bayes.cs.ucla.edu/BOOK-2K/

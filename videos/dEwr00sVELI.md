@@ -50,8 +50,10 @@ retrieved: "2026-09-25"
 ```text
 In this episode, I talk with Andrew Critch about negotiable reinforcement learning: what happens when two people (or organizations, or what have you) who have different beliefs and preferences jointly build some agent that will take actions in the real world. In the paper we discuss, it's proven that the only way to make such an agent Pareto optimal - that is, have it not be the case that there's a different agent that both people would prefer to use instead - is to have it preferentially optimize the preferences of whoever's beliefs were more accurate. We discuss his motivations for working on the problem and what he thinks about it.
 
-Link to the paper - Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making: https://papers.nips.cc/paper/2018/hash/5b8e4fd39d9786228649a8a8bec4e008-Abstract.html
-Link to the transcript: https://axrp.net/episode/2020/12/11/episode-3-negotiable-reinforcement-learning-andrew-critch.html
+Link to the paper - Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making
+: https://papers.nips.cc/paper/2018/hash/5b8e4fd39d9786228649a8a8bec4e008-Abstract.html
+Link to the transcript
+: https://axrp.net/episode/2020/12/11/episode-3-negotiable-reinforcement-learning-andrew-critch.html
 Critch's Google Scholar profile: https://scholar.google.com/citations?user=F3_yOXUAAAAJ&hl=en&oi=ao
 ```
 

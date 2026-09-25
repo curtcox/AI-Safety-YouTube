@@ -51,10 +51,12 @@ retrieved: "2026-09-25"
 The events of this year have highlighted important questions about the governance of artificial intelligence. For instance, what does it mean to democratize AI? And how should we balance benefits and dangers of open-sourcing powerful AI systems such as large language models? In this episode, I speak with Elizabeth Seger about her research on these questions.
 
 Patreon: patreon.com/axrpodcast
-Ko-fi: ko-fi.com/axrpodcast
+
+Ko-fi: ko-fi.com/axrpodcast
 
 Topics we discuss, and timestamps:
-0:00:40 - What kinds of AI?
+
+0:00:40 - What kinds of AI?
 0:01:30 - Democratizing AI
 0:04:44 - How people talk about democratizing AI
 0:09:34 - Is democratizing AI important?
@@ -81,15 +83,18 @@ Topics we discuss, and timestamps:
 The transcript:  https://axrp.net/episode/2023/11/26/episode-26-ai-governance-elizabeth-seger.html
 
 Links for Elizabeth:
- - Personal website: elizabethseger.com
+
+ - Personal website: elizabethseger.com
   -Centre for the Governance of AI (AKA GovAI): governance.ai
 
 Main papers:
- - Democratizing AI: Multiple Meanings, Goals, and Methods: arxiv.org/abs/2303.12642
+
+ - Democratizing AI: Multiple Meanings, Goals, and Methods: arxiv.org/abs/2303.12642
  - Open-sourcing highly capable foundation models: an evaluation of risks, benefits, and alternative methods for pursuing open source objectives: papers.ssrn.com/sol3/papers.cfm?abstract_id=4596436
 
 Other research we discuss:
- - What Do We Mean When We Talk About "AI democratisation"? (blog post):  governance.ai/post/what-do-we-mean-when-we-talk-about-ai-democratisation
+
+ - What Do We Mean When We Talk About "AI democratisation"? (blog post):  governance.ai/post/what-do-we-mean-when-we-talk-about-ai-democratisation
  - Democratic Inputs to AI (OpenAI): openai.com/blog/democratic-inputs-to-ai
  - Collective Constitutional AI: Aligning a Language Model with Public Input (Anthropic):  anthropic.com/index/collective-constitutional-ai-aligning-a-language-model-with-public-input
  - Against "Democratizing AI":  johanneshimmelreich.net/papers/against-democratizing-AI.pdf

@@ -51,9 +51,11 @@ Topics we discuss, and timestamps:
 00:45:39 - Future work
 00:50:12 - About Redwood Research
 
-The transcript - https://axrp.net/episode/2022/08/21/episode-17-training-for-very-high-reliability-daniel-ziegler.html
+The transcript
+ - https://axrp.net/episode/2022/08/21/episode-17-training-for-very-high-reliability-daniel-ziegler.html
 
-Daniel Ziegler on Google Scholar - https://scholar.google.com/citations?user=YzfbfDgAAAAJ
+Daniel Ziegler on Google Scholar
+ - https://scholar.google.com/citations?user=YzfbfDgAAAAJ
 
 Research we discuss:
 - Daniel's paper, Adversarial Training for High-Stakes Reliability - https://arxiv.org/abs/2205.01663

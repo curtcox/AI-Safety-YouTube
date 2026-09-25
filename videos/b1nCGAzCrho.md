@@ -38,8 +38,10 @@ retrieved: "2026-09-25"
 ```text
 In machine learning, typically optimization is done to produce a model that performs well according to some metric. Today's episode features Evan Hubinger talking about what happens when the learned model itself is doing optimization in order to perform well, how the goals of the learned model could differ from the goals we used to select the learned model, and what would happen if they did differ.
 
-Link to the paper - Risks from Learned Optimization in Advanced Machine Learning Systems: https://arxiv.org/abs/1906.01820
-Link to the transcript: https://axrp.net/episode/2021/02/17/episode-4-risks-from-learned-optimization-evan-hubinger.html
+Link to the paper - Risks from Learned Optimization in Advanced Machine Learning Systems
+: https://arxiv.org/abs/1906.01820
+Link to the transcript
+: https://axrp.net/episode/2021/02/17/episode-4-risks-from-learned-optimization-evan-hubinger.html
 Evan Hubinger's Alignment Forum profile: https://www.alignmentforum.org/users/evhub
 ```
 

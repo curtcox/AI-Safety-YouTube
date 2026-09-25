@@ -36,7 +36,8 @@ retrieved: "2026-09-25"
 ```text
 One proposal to train AIs that can be useful is to have ML models debate each other about the answer to a human-provided question, where the human judges which side has won. In this episode, I talk with Beth Barnes about her thoughts on the pros and cons of this strategy, what she learned from seeing how humans behaved in debate protocols, and how a technique called imitative generalization can augment debate. Those who are already quite familiar with the basic proposal might want to skip past the explanation of debate to 13:00, "what problems does it solve and does it not solve".
 
-Link to Beth's posts on the Alignment Forum: https://www.alignmentforum.org/users/beth-barnes
+Link to Beth's posts on the Alignment Forum
+: https://www.alignmentforum.org/users/beth-barnes
 Link to the transcript: https://axrp.net/episode/2021/04/08/episode-6-debate-beth-barnes.html
 ```
 

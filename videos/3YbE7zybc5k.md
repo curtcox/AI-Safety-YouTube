@@ -46,7 +46,8 @@ retrieved: "2026-09-25"
 How good are we at understanding the internal computation of advanced machine learning models, and do we have a hope at getting better? In this episode, Neel Nanda talks about the sub-field of mechanistic interpretability research, as well as papers he's contributed to that explore the basics of transformer circuits, induction heads, and grokking.
 
 Topics we discuss, and timestamps:
-- 00:01:05 - What is mechanistic interpretability?
+
+- 00:01:05 - What is mechanistic interpretability?
 - 00:24:16 - Types of AI cognition
 - 00:54:27 - Automating mechanistic interpretability
 - 01:11:57 - Summarizing the papers
@@ -66,7 +67,8 @@ Topics we discuss, and timestamps:
 - 03:43:57 - Could mechanistic interpretability possibly work?
 - 03:49:28 - Following Neel's research
 
-The transcript: https://axrp.net/episode/2023/02/04/episode-19-mechanistic-interpretability-neel-nanda.html
+The transcript
+: https://axrp.net/episode/2023/02/04/episode-19-mechanistic-interpretability-neel-nanda.html
 
 Links to Neel's things:
 

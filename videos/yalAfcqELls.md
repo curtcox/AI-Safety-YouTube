@@ -63,11 +63,17 @@ Topics we discuss:
 02:00:33 - What AI x-risk researchers do wrong
 02:01:59 - How to follow Katja's and AI Impacts' work
 
-The transcript: https://axrp.net/episode/2021/07/23/episode-10-ais-future-and-dangers-katja-grace.html
-"When Will AI Exceed Human Performance? Evidence from AI Experts": https://arxiv.org/abs/1705.08807
-AI Impacts page of more complete survey results: https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/
-Likelihood of discontinuous progress around the development of AGI: https://aiimpacts.org/likelihood-of-discontinuous-progress-around-the-development-of-agi/
-Discontinuous progress investigation: https://aiimpacts.org/discontinuous-progress-investigation/
+The transcript
+: https://axrp.net/episode/2021/07/23/episode-10-ais-future-and-dangers-katja-grace.html
+"When Will AI Exceed Human Performance? Evidence from AI Experts"
+: https://arxiv.org/abs/1705.08807
+AI Impacts page of more complete survey results
+: https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/
+
+Likelihood of discontinuous progress around the development of AGI
+: https://aiimpacts.org/likelihood-of-discontinuous-progress-around-the-development-of-agi/
+Discontinuous progress investigation
+: https://aiimpacts.org/discontinuous-progress-investigation/
 The range of human intelligence: https://aiimpacts.org/is-the-range-of-human-intelligence-small/
 ```
 

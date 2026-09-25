@@ -25,7 +25,8 @@ If you want to shape the development and forecast the consequences of powerful A
 
 Unfortunately, there was a problem with the recording of our interview, so we weren't able to release it in audio form, but you can read a transcript of the whole conversation.
 
-Link to the transcript: https://axrp.net/episode/2021/05/28/episode-7_5-forecasting-transformative-ai-ajeya-cotra.html
+Link to the transcript
+: https://axrp.net/episode/2021/05/28/episode-7_5-forecasting-transformative-ai-ajeya-cotra.html
 Link to the draft report "Forecasting Transformative AI from Biological Anchors": https://drive.google.com/drive/u/1/folders/15ArhEPZSTYU8f012bs6ehPS6-xmhtBPP
 ```
 

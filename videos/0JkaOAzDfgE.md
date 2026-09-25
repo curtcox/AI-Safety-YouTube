@@ -53,8 +53,10 @@ retrieved: "2026-09-25"
 Imagine a world where there are many powerful AI systems, working at cross purposes. You could suppose that different governments use AIs to manage their militaries, or simply that many powerful AIs have their own wills. At any rate, it seems valuable for them to be able to cooperatively work together and minimize pointless conflict. How do we ensure that AIs behave this way - and what do we need to learn about how rational agents interact to make that more clear? In this episode, I'll be speaking with Caspar Oesterheld about some of his research on this very topic.
 
 Patreon: patreon.com/axrpodcast
-Ko-fi: ko-fi.com/axrpodcast
-Topics we discuss, and timestamps:
+
+Ko-fi: ko-fi.com/axrpodcast
+
+Topics we discuss, and timestamps:
  - 0:00:34 - Cooperative AI
    - 0:06:21 - Cooperative AI vs standard game theory
    - 0:19:45 - Do we need cooperative AI if we get alignment?
@@ -85,13 +87,15 @@ Patreon: patreon.com/axrpodcast
 The transcript:  axrp.net/episode/2023/10/03/episode-25-cooperative-ai-caspar-oesterheld.html
 
 Links for Caspar:
- - FOCAL at CMU: www.cs.cmu.edu/~focal/
+
+ - FOCAL at CMU: www.cs.cmu.edu/~focal/
  - Caspar on X, formerly known as Twitter: twitter.com/C_Oesterheld
  - Caspar's blog: casparoesterheld.com/
  - Caspar on Google Scholar:  scholar.google.com/citations?user=xeEcRjkAAAAJ&amp;hl=en&amp;oi=ao
 
 Research we discuss:
- - A Theory of Bounded Inductive Rationality: arxiv.org/abs/2307.05068
+
+ - A Theory of Bounded Inductive Rationality: arxiv.org/abs/2307.05068
  - Safe Pareto improvements for delegated game playing: link.springer.com/article/10.1007/s10458-022-09574-6
  - Similarity-based Cooperation: arxiv.org/abs/2211.14468
  - Logical Induction: arxiv.org/abs/1609.03543
