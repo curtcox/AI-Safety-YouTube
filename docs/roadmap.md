@@ -5,16 +5,16 @@ collection is created. Move an item into `channels/` once collected.
 
 ## Robert Miles, remaining gaps
 
-- [ ] Computerphile episodes with Rob Miles after ~2020 (not in his playlist).
+- [x] Computerphile episodes with Rob Miles after ~2020 (added via `include`).
 - [ ] Podcast/interview appearances on other channels.
 
 ## Candidate channels (mostly or entirely AI safety)
 
-- [ ] Rational Animations (animated explainers; collaborates with AISafety.info)
-- [ ] AXRP – the AI X-risk Research Podcast (Daniel Filan)
+- [x] Rational Animations → `channels/rationalanimations`
+- [x] AXRP → `channels/axrpodcast`
 - [ ] Future of Life Institute (podcast + talks)
 - [ ] Center for AI Safety
-- [ ] FAR.AI (alignment workshop talks)
+- [x] FAR.AI → `channels/farairesearch`
 - [ ] MIRI / Eliezer Yudkowsky talks
 - [ ] METR, Apollo Research, Redwood Research (talks, if they have channels)
 - [ ] Anthropic, OpenAI, Google DeepMind — safety/alignment-tagged videos only
@@ -28,6 +28,8 @@ collection is created. Move an item into `channels/` once collected.
 
 ## Tooling ideas
 
+- [ ] Finish `pending` videos (YouTube-blocked) from a residential IP.
+- [ ] Import edited AXRP transcripts from axrp.net.
 - [ ] Cross-collection topic tags (e.g. `inner-alignment`, `governance`) in a hand-edited file.
 - [ ] A single top-level `videos.json` merging all collections.
 - [ ] Scheduled refresh (GitHub Action) to pick up new uploads.

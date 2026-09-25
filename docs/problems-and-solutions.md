@@ -35,10 +35,11 @@ Add to this whenever something goes wrong or needs a workaround.
 
 ### Rate limiting (HTTP 429)
 - **Problem:** Rapid requests get 429s.
-- **Solution:** `sleep_interval_requests=1`, a pause between videos, and
-  exponential backoff retries (30s → 240s) on 429. Runs are resumable: videos
-  already in `videos/` are skipped unless `--refresh`.
-- **Cost:** about 10s per video (~12 minutes for the 73-video channel).
+- **Solution:** `sleep_interval_requests=1`, a pause between videos
+  (`FETCH_PAUSE`, default 8s), and short retries (30s, 90s) on 429. Runs are
+  resumable: videos already in `videos/` are skipped unless `--refresh`.
+- **Cost:** about 10–15s per video when not blocked (~12 minutes for the
+  73-video Rob Miles channel).
 
 ### "Sign in to confirm you're not a bot"
 - **Problem:** On the first full run, 6 of 73 videos failed metadata
@@ -100,3 +101,46 @@ Add to this whenever something goes wrong or needs a workaround.
 - **Solution:** A separate partial collection (`channels/computerphile`) sourced
   from the "Computerphile Videos" playlist on his channel, excluding four
   non-AI episodes. The playlist appears to end around 2020 — see roadmap.
+
+## Adding Rational Animations, AXRP, FAR.AI and more Computerphile (2026-09-24/25)
+
+### Bot checks at scale
+- **Problem:** Across ~560 more videos, about 1 in 3 fetches hit "Sign in to
+  confirm you're not a bot" (steady through the run, not growing). Long
+  backoffs (30s → 240s, 7.5 min per video) rarely helped, but the same videos
+  usually succeeded on a *later* run.
+- **Solution:** Retries were shortened to 30s + 90s, and blocked videos are
+  left for a later re-run. The manifest records them as `pending`, and each
+  collection index lists them under "Not yet fetched", so the collection
+  stays complete even when a transcript is missing.
+- **Cost:** Several passes are needed to finish a big channel from a cloud IP.
+  A residential IP (or `--cookies`) would likely avoid most of this.
+
+### yt-dlp raises two different HTTPError types
+- **Problem:** A 429 while downloading captions (via `ydl.urlopen`) raised
+  yt-dlp's own `HTTPError`, which the retry wrapper didn't catch, so it
+  failed without retrying.
+- **Solution:** The retry wrapper catches all exceptions and decides by
+  message (429 / bot check); anything else is re-raised.
+
+### Container restart mid-run
+- **Problem:** The cloud session's container restarted during the FAR.AI run,
+  killing the fetch.
+- **Solution:** Files written so far survived, and the script resumes where
+  it stopped. The runner now commits and pushes after each collection.
+
+### Scoping mixed-topic channels
+- **Problem:** Rational Animations also covers poverty, longtermism,
+  rationality, etc.; Computerphile has ~920 videos, mostly not AI.
+- **Solution:** `exclude` (with reasons) for clearly non-AI videos on
+  mostly-relevant channels; `include` (with reasons) for hand-picked videos on
+  mostly-irrelevant channels, chosen from a keyword pass over all titles plus
+  review. One pick (`XyMdpcAPnZc`) turned out, from its description, to be
+  neither Rob Miles nor safety-related, and was removed. Check descriptions
+  when a title is ambiguous.
+
+### AXRP has no human captions on YouTube
+- **Problem:** All AXRP transcripts here are YouTube auto-captions.
+- **Solution:** The collection README points to the edited transcripts on
+  axrp.net. Importing those is on the roadmap.
+

@@ -17,7 +17,9 @@ completeness of what is included over breadth of what is attempted.
   - `exclude`: `{id, reason}` for off-topic videos (always give a reason)
   - `description_trim_after`: regex; description text from the match onward is dropped (used for patron lists)
   - `scope`: free text, required when the collection is not a whole channel
-- `channels/<name>/videos.json` — **generated**. Do not hand-edit.
+  - `include`: `{id, reason}` for individual videos to add (for partial collections)
+- `channels/<name>/videos.json` — **generated**. Do not hand-edit. `pending`
+  lists ids in the collection that YouTube blocked on the last run.
 - `channels/<name>/README.md` — hand-written text is kept; the section between
   `<!-- BEGIN GENERATED INDEX -->` and `<!-- END GENERATED INDEX -->` is regenerated.
 - `videos/<id>.md` — **generated**. Front matter values are JSON (valid YAML).
@@ -38,7 +40,9 @@ collections, retrieved`. `transcript.source` is `manual` (human captions),
   [docs/problems-and-solutions.md](docs/problems-and-solutions.md).
 - Add new candidate sources to [docs/roadmap.md](docs/roadmap.md) rather than
   collecting them unasked.
-- Update the collection table in `README.md` when adding a collection.
+- The collection table in `README.md` is generated; don't edit it by hand.
+- For mixed-topic channels, check a video's description when its title is
+  ambiguous before including it.
 
 ## Running the fetcher
 
@@ -47,7 +51,7 @@ pip install -r requirements.txt
 python scripts/fetch_youtube.py channels/<name> [--refresh] [--limit N] [--index-only]
 ```
 
-- It pauses between videos and retries on HTTP 429. A full run for ~70 videos
-  takes ~10 minutes. If it still gets rate limited, wait and re-run: it
-  resumes, skipping videos already on disk.
+- It pauses between videos (`FETCH_PAUSE` env var, default 8s) and briefly
+  retries on HTTP 429 / bot checks. From cloud IPs expect ~1 in 3 videos to be
+  blocked; re-run later and it fetches only what's missing (`pending`).
 - Exit code 1 means some videos failed; they are listed at the end of the output.

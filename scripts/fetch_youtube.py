@@ -38,7 +38,7 @@ INDEX_END = "<!-- END GENERATED INDEX -->"
 MANUAL_LANGS = ["en-GB", "en", "en-US", "en-CA", "en-AU"]
 AUTO_LANGS = ["en-orig", "en"]
 
-PAUSE_BETWEEN_VIDEOS = 8  # seconds; YouTube returns 429s / bot checks quickly without this
+PAUSE_BETWEEN_VIDEOS = int(os.environ.get("FETCH_PAUSE", 8))  # seconds; YouTube returns 429s / bot checks quickly without this
 RETRY_DELAYS = [30, 90]  # short: blocked videos usually succeed on a later re-run instead
 # Transient blocks worth backing off and retrying.
 RETRYABLE = ("429", "Too Many Requests", "confirm you’re not a bot", "confirm you're not a bot")
@@ -256,6 +256,12 @@ def build_index(coll_dir, manifest):
         out += [f"### Playlist: [{pl['title']}](https://www.youtube.com/playlist?list={pl['id']}) ({len(vids)})", ""]
         out += [f"{n}. [{v['title']}]({link(v)})" for n, v in enumerate(vids, 1)]
         out.append("")
+    pending = manifest.get("pending", [])
+    if pending:
+        out += [f"## Not yet fetched ({len(pending)})", "",
+                "_In the collection but blocked by YouTube when last run; re-run the script to fetch._", ""]
+        out += [f"- https://www.youtube.com/watch?v={i}" for i in pending]
+        out.append("")
     out.append(INDEX_END)
 
     readme = coll_dir / "README.md"
@@ -265,6 +271,32 @@ def build_index(coll_dir, manifest):
     pre, _, rest = text.partition(INDEX_BEGIN)
     _, _, post = rest.partition(INDEX_END)
     readme.write_text(pre + "\n".join(out) + post, encoding="utf-8")
+
+
+def build_collections_table():
+    """Regenerate the collection table in the top-level README."""
+    begin, end = "<!-- BEGIN COLLECTIONS -->", "<!-- END COLLECTIONS -->"
+    rows = ["| Collection | Scope | Videos | Shorts | Transcripts (human / auto / none) | Not yet fetched |",
+            "|---|---|---|---|---|---|"]
+    for cfg_path in sorted((ROOT / "channels").glob("*/collection.json")):
+        cfg = json.loads(cfg_path.read_text())
+        man_path = cfg_path.parent / "videos.json"
+        man = json.loads(man_path.read_text()) if man_path.exists() else {"videos": []}
+        vids = man["videos"]
+        src = [(v["transcript"] or {}).get("source") for v in vids]
+        scope = "Partial" if cfg.get("scope", "").startswith("Partial") else (
+            "Channel, AI videos only" if cfg.get("exclude") else "Whole channel")
+        rows.append(
+            f"| [{cfg['channel']}](channels/{cfg_path.parent.name}/) | {scope} "
+            f"| {sum(not v['is_short'] for v in vids)} | {sum(v['is_short'] for v in vids)} "
+            f"| {src.count('manual')} / {src.count('auto')} / {src.count(None)} "
+            f"| {len(man.get('pending', []))} |")
+    readme = ROOT / "README.md"
+    text = readme.read_text(encoding="utf-8")
+    if begin in text:
+        pre, _, rest = text.partition(begin)
+        _, _, post = rest.partition(end)
+        readme.write_text(pre + begin + "\n" + "\n".join(rows) + "\n" + end + post, encoding="utf-8")
 
 
 def main():
@@ -283,6 +315,7 @@ def main():
 
     if args.index_only:
         build_index(coll_dir, manifest)
+        build_collections_table()
         return
 
     excluded = {e["id"] for e in config.get("exclude", [])}
@@ -334,13 +367,16 @@ def main():
         known[vid] = {k: v for k, v in meta.items() if k != "collections"}
         manifest["videos"] = [known[i] for i in ids if i in known]
         manifest["playlists"] = playlists
+        manifest["pending"] = [i for i in ids if i not in known]
         manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
         time.sleep(PAUSE_BETWEEN_VIDEOS)
 
     manifest["videos"] = [known[i] for i in ids if i in known]
     manifest["playlists"] = playlists
+    manifest["pending"] = [i for i in ids if i not in known]
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
     build_index(coll_dir, manifest)
+    build_collections_table()
     if failures:
         log("failures:")
         for vid, err in failures:

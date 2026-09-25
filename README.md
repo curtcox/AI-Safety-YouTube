@@ -8,12 +8,18 @@ grep locally, or feed to an AI agent.
 
 ## Collections
 
-| Collection | Scope | Videos | Transcripts |
-|---|---|---|---|
-| [Robert Miles AI Safety](channels/robertmilesai/) | Full channel | 46 videos + 27 shorts | 72/73 (41 human, 31 auto) |
-| [Computerphile](channels/computerphile/) | Partial: Robert Miles's AI episodes only | 23 (+1 pending) | 23/23 (14 human, 9 auto) |
+<!-- BEGIN COLLECTIONS -->
+| Collection | Scope | Videos | Shorts | Transcripts (human / auto / none) | Not yet fetched |
+|---|---|---|---|---|---|
+| [AXRP - the AI X-risk Research Podcast](channels/axrpodcast/) | Whole channel | 63 | 3 | 0 / 66 / 0 | 0 |
+| [Computerphile](channels/computerphile/) | Partial | 44 | 0 | 15 / 29 / 0 | 0 |
+| [FAR.AI](channels/farairesearch/) | Whole channel | 262 | 4 | 216 / 48 / 2 | 0 |
+| [Rational Animations](channels/rationalanimations/) | Channel, AI videos only | 24 | 67 | 25 / 66 / 0 | 0 |
+| [Robert Miles AI Safety](channels/robertmilesai/) | Whole channel | 46 | 27 | 41 / 31 / 1 | 0 |
+<!-- END COLLECTIONS -->
 
-_Counts as of 2026-09-24; each collection's `videos.json` is authoritative._
+_Generated from each collection's `videos.json` by `scripts/fetch_youtube.py`.
+"Not yet fetched" videos are listed (with links) at the bottom of each collection's index._
 
 Candidate channels not yet collected are tracked in [docs/roadmap.md](docs/roadmap.md).
 
