@@ -1,0 +1,187 @@
+{
+  "videos": [
+    {
+      "id": "NMEwiZQK_C4",
+      "title": "49 - Caspar Oesterheld on Program Equilibrium",
+      "url": "https://www.youtube.com/watch?v=NMEwiZQK_C4",
+      "channel": "AXRP",
+      "channel_id": "UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "channel_url": "https://www.youtube.com/channel/UCIAzAR5dG7j_Kcvwjh7SQpg",
+      "upload_date": "2026-02-18",
+      "duration_seconds": 9127,
+      "is_short": false,
+      "chapters": 13,
+      "transcript": {
+        "source": "auto",
+        "language": "en-orig"
+      },
+      "retrieved": "2026-09-25"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PLmjaTS1-AiDc38_12u77nU_Grjl6M_yO-",
+      "title": "Approaches to AI safety",
+      "video_ids": [
+        "UCS5ogGVm9E",
+        "y_CFJBR9TyQ",
+        "IK079sBIq2c",
+        "ZzEj7jPk5fc",
+        "m446AjcGVqs",
+        "sUpAssKC-L0",
+        "ZnHt70LREBE",
+        "hdB9gIwD6x4",
+        "gQbCO6zGRiI",
+        "0JkaOAzDfgE",
+        "Uk6-Rw5N_Dg",
+        "o-Qc_jiZTQQ",
+        "lmqfyYn_WJw",
+        "ZZ2x-O0mjBg",
+        "3YbE7zybc5k",
+        "E7JH77LMuV0",
+        "DxwXLCQY1ns",
+        "3L4czdIa8Tg",
+        "shaCQFlOGDQ",
+        "_XhFjlRMhdg",
+        "HB7v6brXsfI"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDckzCCd34gF7omC6ob-QTx2",
+      "title": "Interpretability",
+      "video_ids": [
+        "ZmJ-ov2TywM",
+        "ZzEj7jPk5fc",
+        "3A7CK4-1OFo",
+        "XGVacNeCT48",
+        "P528XdjWvZg",
+        "sUpAssKC-L0",
+        "tEge5uo4E-A",
+        "sEWei02m7qk",
+        "lmqfyYn_WJw",
+        "LwdWeN24K8I",
+        "sISodZSxNvc",
+        "3YbE7zybc5k"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDe_6IsvDuC0FQRkhdAEaGZU",
+      "title": "Evaluations",
+      "video_ids": [
+        "WaJhhD7Qgac",
+        "3D4pgIKR4cQ",
+        "OKekclKMgz0",
+        "4K-lHz2_QGg",
+        "TZNlKcDI4To"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDcl7Zwm9MDogJRehovIy_N2",
+      "title": "Scalable oversight",
+      "video_ids": [
+        "tEge5uo4E-A",
+        "rAywTFQsKGQ",
+        "Uk6-Rw5N_Dg",
+        "VEFZb-0Bx0I",
+        "shaCQFlOGDQ",
+        "ga8_okcLAes"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDf3mNdaf1_qX6zurAiiBx8Y",
+      "title": "Mesa-optimization",
+      "video_ids": [
+        "3A7CK4-1OFo",
+        "XGVacNeCT48",
+        "FsGJyTfOZrs",
+        "b1nCGAzCrho"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDe_tk8nBM-qxJN06OiqiVaV",
+      "title": "Value learning",
+      "video_ids": [
+        "P8EgpMfej5s",
+        "shaCQFlOGDQ",
+        "RCF-KpRbHtk"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDdVNUy7ljzLor0pP6gsKBGA",
+      "title": "Robustness",
+      "video_ids": [
+        "4K-lHz2_QGg",
+        "P8EgpMfej5s",
+        "S4HmgrXievg",
+        "8OkkBaPazl8"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDfl9sWEVXHVLJ1oU8lVjNAP",
+      "title": "Agent foundations",
+      "video_ids": [
+        "NMEwiZQK_C4",
+        "ZnHt70LREBE",
+        "0JkaOAzDfgE",
+        "o-Qc_jiZTQQ",
+        "kmPFjpEibu0",
+        "P8EgpMfej5s",
+        "E7JH77LMuV0",
+        "XyXn7Hj2oYc",
+        "Oc47lJXP6uQ",
+        "HB7v6brXsfI",
+        "b1nCGAzCrho",
+        "dEwr00sVELI"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDdgzJzJiG1sGCBEkGcI5BW5",
+      "title": "Deep learning science and theory",
+      "video_ids": [
+        "P528XdjWvZg",
+        "4K-lHz2_QGg",
+        "TZNlKcDI4To",
+        "hdB9gIwD6x4",
+        "4WNWeUQ7Hfc",
+        "lmqfyYn_WJw"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDc_wfvEe0WwKPcKYB1f9z_j",
+      "title": "Forecasting and governance",
+      "video_ids": [
+        "OZAqXlGXdFY",
+        "UCS5ogGVm9E",
+        "WaJhhD7Qgac",
+        "ltZfc9E6sUQ",
+        "IK079sBIq2c",
+        "OKekclKMgz0",
+        "GkMkoZvYshk",
+        "m446AjcGVqs",
+        "1OQyGH-IlM4",
+        "bmJJ0WiPhQ8",
+        "TZNlKcDI4To",
+        "l1yiFToBAtM",
+        "hdQDZo7jGBY",
+        "bYOB3CXAAaE",
+        "yalAfcqELls",
+        "abvNmyQUJUk"
+      ]
+    },
+    {
+      "id": "PLmjaTS1-AiDdo5K9jlaI2kTm4sAKbry5d",
+      "title": "Alignment Workshop 2024",
+      "video_ids": [
+        "OKekclKMgz0",
+        "GkMkoZvYshk",
+        "m446AjcGVqs",
+        "3A7CK4-1OFo",
+        "RXknLBAWOm0",
+        "XGVacNeCT48",
+        "P528XdjWvZg",
+        "1OQyGH-IlM4",
+        "4K-lHz2_QGg"
+      ]
+    }
+  ]
+}

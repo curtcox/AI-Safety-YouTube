@@ -39,7 +39,7 @@ MANUAL_LANGS = ["en-GB", "en", "en-US", "en-CA", "en-AU"]
 AUTO_LANGS = ["en-orig", "en"]
 
 PAUSE_BETWEEN_VIDEOS = 8  # seconds; YouTube returns 429s / bot checks quickly without this
-RETRY_DELAYS = [30, 60, 120, 240]
+RETRY_DELAYS = [30, 90]  # short: blocked videos usually succeed on a later re-run instead
 # Transient blocks worth backing off and retrying.
 RETRYABLE = ("429", "Too Many Requests", "confirm you’re not a bot", "confirm you're not a bot")
 
