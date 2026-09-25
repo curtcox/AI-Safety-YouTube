@@ -1,0 +1,53 @@
+---
+id: "IHIxzs3gV0o"
+title: "Kevin Wei - Policy-Oriented AI Evaluations [Technical AI Policy]"
+url: "https://www.youtube.com/watch?v=IHIxzs3gV0o"
+channel: "FAR․AI"
+channel_id: "UCCV6kbjBZje3LPxRp0NHfxg"
+channel_url: "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg"
+upload_date: "2025-09-17"
+duration_seconds: 466
+is_short: false
+chapters: 0
+transcript: {"source": "manual", "language": "en-US"}
+collections: ["channels/farairesearch"]
+retrieved: "2026-09-25"
+---
+
+# Kevin Wei - Policy-Oriented AI Evaluations [Technical AI Policy]
+
+[Watch on YouTube](https://www.youtube.com/watch?v=IHIxzs3gV0o) · FAR․AI · 2025-09-17 · 7:46
+
+## Description
+
+```text
+Kevin Wei shares three recommendations for creating  policy-relevant AI evaluations: target capabilities that will motivate policy action, select your methods to balance cost with realism, and communicate findings through clear risk models and specific policy recommendations. 
+
+Highlights:
+Design evaluations with policy impact in mind
+Balance evaluation depth with resource constraints
+Provide context through concrete risk models
+Translate technical outcomes into policy-ready recommendations
+
+Note: The opinions shared in this event are those of the speaker(s) and may not represent the views of FAR.AI or their affiliated organizations.
+```
+
+## Transcript
+
+_Source: human-made captions (en-US). Timestamps are [m:ss] from the start of the video._
+
+[0:04] So hi everyone. My name is Kevin Wei. I am a fellow in the Technology and Security Policy Center at RAND, or the TASC Center. In addition to all the things that were just mentioned, I do also work on the science of AI evaluations. So welcome to our talk about policy-oriented AI evaluation. So how do we build evaluations that are relevant to policymakers? Before I get into things, let me first define what AI evaluations are. So to us this means they're assessments or tests of AI models' capabilities, tendencies, or behavioral profiles. At RAND, we are largely focused on capability assessments. You can tell by the name of our team, the AI Capability Evaluations Team. And yeah, before I get into things, I also want to thank Ella Guest for these slides. I'm filling in for her. So if you walk away from this talk thinking, oh, all these people at RAND, they're all geniuses, it's not me, it's Ella. If you take away one thing from this talk, it should be that if you want your evals to have policy impact, please design and disseminate them with policymakers in mind.
+
+[1:00] It seems really simple, but there's a couple of things to remember here and I'll get into what those are in a second. So I'm also just going to assume that since you're in DC, you're all interested in having policy impact, but just quick explainer. I think we think that helping existing institutions understand and adapt to AI is one of the most impactful things that evals can do. And that's why we're thinking about this. Also, quick plug, you should also consider working for RAND if you work in evaluations. We are currently hiring for bio experts, cyber experts, and engineers for our evaluation teams. We are also hiring for our technical AI governance teams on the COMPUTE cluster and also for our tech policy and governance teams. For context, we work on a couple different things at RAND. So RAND is a think tank. We're about 2,000 people. The TASC Center of the Technology and Security Policy Center is about 70 to 100 people, depending on how you count.
+
+[1:51] Our AI evaluations team primarily works on bio evals, the biosecurity evals, and the science evaluations, which is how do you build better evaluations. We also have a sister center, the Meselson Center, which works on building cybersecurity evals. Both of these centers are financially independent from industry. This helps us maintain our reputation and independence for policymakers, which is our primary audience. Other context: we also are very focused on trying to build the most comprehensive eval suites. So we're focused on many benchmarks, many models, which is very different from a typical ML paper because the audience is policymakers and we want to give them an overview of the landscape rather than sort of comparisons between just a few different models. Okay, so let me talk about how do you build evals for policymakers? Three key points to keep in mind. The first is focus. So what are you focusing on? What are you looking at? What is the thing that you're evaluating? The second is the method. So once you know that, what are the ways that you are trying to measure that capability or that concept while keeping it as simple and realistic as possible?
+
+[2:53] And then the last thing is once you have your results, how do you present it to policymakers? So focus. The most important capability to demonstrate and the lens that we use to think about this is: would demonstrating a particular capability in an AI system activate policymaker attention and action? And this is important for two reasons, right? So first is policymakers need to care about the thing that you're demonstrating and then they need to be able to do something about it. So this might mean that you're targeting capabilities that are not the most concerning in isolation, but you are tying the thing that you are evaluating to policymakers' existing priorities and concerns. And you're also able to tie that to existing policy levers such as the Biological Weapons Convention or export controls, or you're able to point at new policy interventions that are promising for them to take action on. So once you know what you're going to evaluate, then you think about the method. So at RAND, we have this ladder of evaluations. On the bottom here you're seeing resource intensiveness.
+
+[3:51] So this is resources not just in terms of sort of financial cost, but also in terms of time and human expertise needed to conduct an evaluation. And then on the left side you're seeing increasing realism. So this is how similar is your test evaluation environment to what somebody would actually be doing in the real world? And this is a ladder in the sense that the more realistic you want your evaluations to look, the more expensive it costs in terms of time and money and expertise. At the very bottom you have these things that are multiple choice benchmarks. So these are things like GPQA, ARC, MMLU, things where you're just basically feeding things like SAT questions. So they're like multiple choice questions. You're asking the model to answer. A step above that, there are open-ended benchmarks and these are still question-answer based, but instead of giving models the multiple choice options, it's now free response, so they can just sort of output any text. Above that is this thing called long-form tasks, which is a paradigm from UK AISI that we are also thinking about at RAND. So imagine that you have a complex goal that you would like your model to accomplish. There's a bunch of steps in between.
+
+[4:48] Can the model autonomously or semi-autonomously complete those steps so that it actually outputs the goal that you want? Then the most expensive and also the most realistic thing that's happening in vitro is human uplift studies. Most commonly these are randomized controlled trials. The idea here is to try to measure how much would access to an AI model increase a human's capability to do a particular thing. One example is that at RAND we have done a red teaming report on biosecurity. So this is how, if you had access to particular models or different types of models, different sets of models, how would that increase a malicious actor's ability to create a bioweapon? Okay, so that's method. And then the last thing here is presentation. So you want to know what your audience—and for us, this is policymakers—what policymakers care about and you want to explain why this is relevant. So I'm sure you've heard from other folks here that policymakers are busy. They've got 10 million issues that are on fire every single day. Maybe they'll have like a minute to read through your one-pager.
+
+[5:40] So you need to be able to really clearly tie together your evaluation and your evaluation results to the thing that they care about. And you also want to communicate it as clearly as possible. So if you look at our website, there's a bunch of examples of our reports. They all have executive summaries. These are really important so that you can get sort of the 30-second, one-minute skim of what's going on and you can get some context on the evaluation results. Quick plug here. My colleague Chris Baird, who leads the tech policy and governance team at RAND, is going to be giving a talk on how to communicate research to policymakers. It's at 1 PM in 2LA, so if you're interested in this particular topic, you should show up to that. And then the other thing here is adding context to your evaluation. So a lot of evaluations sort of just spit out a number, right? You've got this number. What does it mean? It's really important for folks, especially in the policy audience, to be able to tie that to a concrete risk model or risk estimate or forecasting. And this is really crucial because without that sort of tie to your concrete risk model, it's really unclear what your evaluation means for real-world risk and what it means in context.
+
+[6:36] So you want to also tie it to things like risk thresholds so that you can point to specific policy levers and to point at sort of the overall levels of risk. This is also important to avoid things like the boiling frog scenario. So I think we've got a bunch of model releases and they're sort of incrementally increasing capabilities or slightly more and more dangerous over time. But over time it adds up to a large absolute increase. So you want to avoid that and to preempt that. And then of course you also want to point at appropriate policy levers and mitigation. So once you have your evaluation results, what does that mean for a policymaker? What can they do with that number that you're giving them? And that's why it's important to tie that to mitigations. All right, so that's the takeaway. So if you want your evals to have policy impact, remember to design and disseminate them with policymakers in mind. I and I think the other lightning talk speakers will be at the office hours at 1:30 later today. My email is on the slides. My first initial last name @rand.org. Otherwise, if you're interested in coming to work for RAND, which you should seriously consider if you work in evals, we are also hiring and you can find all of our job listings @rand.org/jobs. Thank you very much.

@@ -1,0 +1,54 @@
+---
+id: "yPtrdNe5v2U"
+title: "Lennart Heim - Opening Remarks  [Technical AI Policy]"
+url: "https://www.youtube.com/watch?v=yPtrdNe5v2U"
+channel: "FAR․AI"
+channel_id: "UCCV6kbjBZje3LPxRp0NHfxg"
+channel_url: "https://www.youtube.com/channel/UCCV6kbjBZje3LPxRp0NHfxg"
+upload_date: "2025-07-01"
+duration_seconds: 500
+is_short: false
+chapters: 0
+transcript: {"source": "manual", "language": "en-US"}
+collections: ["channels/farairesearch"]
+retrieved: "2026-09-25"
+---
+
+# Lennart Heim - Opening Remarks  [Technical AI Policy]
+
+[Watch on YouTube](https://www.youtube.com/watch?v=yPtrdNe5v2U) · FAR․AI · 2025-07-01 · 8:20
+
+## Description
+
+```text
+Lennart Heim depicts three areas of technical AI governance progress—understanding frontier AI, informing governance, and creating technical solutions—while arguing that despite the field's growth, there's still much more to do to face the magnitude of the AI governance challenge ahead. 
+
+Highlights:
+Understanding AI trends is crucial for effective policy-making
+Technical mechanisms can address governance problems
+Verification of AI system properties may help enforce international agreements
+
+Note: The opinions shared in this event are those of the speaker(s) and may not represent the views of FAR.AI or their affiliated organizations.
+```
+
+## Transcript
+
+_Source: human-made captions (en-US). Timestamps are [m:ss] from the start of the video._
+
+[0:05] My name is Leonard Heim. I got the pleasure to give some opening remarks here, and it's just really great to see so many people coming here to work on technical AI policy, which used to be more of a niche thing, like four or five years ago when I got started with this. And now we have how many people? 200, 300 here. And it's such a rare occasion to actually have hardware engineers in D.C. talking technical innovations to make this whole AI policy stuff better. So it's been yesterday already been a pleasure, and I hope we have another good day. What I want to do is briefly just talk about technical governance, about some great things which I've seen happening over the last couple of years here in AI governance work, which already made policy easier and better. And a year ago I wrote down, what even is technical AI governance? I was basically trying to clarify what am I trying to do? What am I trying to do different than people who just do AI governance and AI policy? And the first part was just understanding what the hell is going on.
+
+[1:03] And here's a couple of plots from some amazing people who have done some work, which is basically what is going on with AI. Should we even bother caring about it? You see on the left, IFP did some analysis. It's just like, how much energy do we need for these clusters? And it's a line going straight up that has some policy implications, right? If we want to build these data centers, we should pay attention to that. In the middle you see Epoch AI, who's been doing a lot of work on benchmarking. Just understanding how capable these systems are is really, really critical to just know, should we actually care? We see they're getting better and better every single day. And I think this means we should do something on the policy side here. And then recently, colleagues of mine, also via Epoch, we published a data base of more than 700 supercomputers. Just like, what are the trends there?
+
+[1:52] And all of this work is really, really basic. We don't make any judgments good or bad. We just look at it and see, where is the trend going? Where is this line going? And I think this is, for example, my whole work got started with this. I took a look at just how much compute do we need for training AI systems? And I saw a line going up, doubling every six months. I was like, wow, that's a pretty steep exponential. This means we might want to do something about it. Same for supercomputers, same for benchmarking, understanding these trends, if it's owned by academia, by private industry, is critical. That's the first step we all need to do to eventually do better AI policy to get an understanding of what the hell is even going on. The second part is just improving our understanding and then designing better AI governance solutions here. I've got two figures here. One figure here is again from the IFP work where they just took a look at where could we actually build these data centers to help with permitting, right?
+
+[2:46] So we see we need way more energy, so we need to take the policy actions right now. And the other picture here is mostly me playing around with Midjourney, and I was thinking about, okay, there's part of my big work at RAND with national security is always US-China competition. Where's the US at? Where's China at? Right. Understanding the trend there. So if we need more and more energy over time, what does it mean that China potentially has better options to get more energy on the grid and build these data centers? What are the strengths of the US here? Or for example, a lot of my work is just focused on AI chip production. How many chips are we producing? How many chips is China producing? How good are they? These types of net assessments, they're really critical for the work and also net assessments going forward, right? So we can see where this line is going, but maybe we want to change it. Maybe we want to make it go up, maybe we want to make it go down. Maybe we want to throw some safeguards on top of it. And then the last work. And I think if you guys have been around here yesterday for the demo, I think this was really my personal highlight here, seeing physical demos, people walking in here with GPUs and showing stuff.
+
+[3:50] And this technical mechanism part is we now have this AI governance. We know where it's going, we have a rough idea we might want to change in certain ways. Can we design technical mechanisms to solve these technical problems? What I tend to say is trusting the math is sometimes better than trusting the people, right? If I have a mechanism which can say this is a good AI system, that's beautiful. It's better if I need to trust someone to tell me that. Unfortunately, a good AI system is not a technical property. But over time I think we learn more, right? If you run an evaluation and you say this evaluation only scores 50% and 100% would be bad, this gives us some insights, right? This teaches us if we should trust this AI system or not. And we can basically rely more on these techniques to do it. Another big part of the work here is anything around AI chips. Many people talk about hardware-enabled mechanisms. There is currently a bill being proposed about location verification. Where are these chips going to make sure they don't end up where you don't want them to end up? These mechanisms are just getting started.
+
+[4:46] I think there's lots of work to be done. In particular I want to call out more work on verification, even potentially within countries domestically. How can we verify what AI companies are doing? Right now we just kind of trust them. This might be okay, but in the long run we might want to verify it. And they just run them off and show, hey, actually here's the result. The same eventually goes internationally, right? If we look back at the Cold War, verification agreements were key to getting anything done. In particular in AI, we think we will also need this at some point in the future. So we have ways to verify that other countries, other nations only do things we all agreed upon. That's the first step to actually agree on anything. So I would encourage all of you, and particularly engineers here, to think more about verification work. And if I look going forward and we have this conference again in the next year or two years from now, I wish and I hope we see more verification work to verify again AI policy goals on whatever level we can eventually do it.
+
+[5:43] And the last thing I want to close with is—and I've got a picture of a whale. That's the cover I used for my DeepSeek post, which I think was a really nice example of, in my opinion, a really inefficient market where people really freaked out to DeepSeek, in my opinion, to something which was fairly predictable. And then they even freaked out in the wrong direction, coming to the conclusion compute doesn't matter anymore. Which I don't think is the case at all. And I might be a bit biased because I work on compute, but my post goes into more details here. But I think this was just an example of there are not that many adults in the room, and understanding these technical things is actually fairly hard. Right? If you look at a system and suddenly they just rolled out, we used way less compute, only 2,000 GPUs. And you only remember Sam Altman saying, well, we have 100,000 GPUs. Sure, at first hand you can come to the conclusion compute is not important anymore. China just beat us, and for example, all the export control policy is not important anymore.
+
+[6:36] I actually think that's the wrong conclusion on all of these things. I think actually as a technical expert, as a policy expert, it's our job to go deeper on these kinds of things and actually say, what does this really mean? And often the answer is, well, it's more complicated. And the thing I want to close with is a friend of mine, Thomas Hochman. He's an amazing talent working on AI energy. And he recently put out a post, "One Year in DC." And it's actually also for me, my first year in DC, which I'm just finishing up. And I think I've come to similar conclusions. There is no efficient market here. And I think many people, as technical people, call me, can I even do something? Can I even change something? I was like, oh, hell yeah, you can. Just coming in with the right analysis, having the right proposals, diving really deep, finding this weird legal leeway, how you get something done, or just extrapolating the trend, saying, hey, AI is a big deal and actually we now need many, many gigawatts. We don't have them. You can really make a difference here and change it for the better. Be it with the administration helping it, with technics, be it at a think tank, just putting out the things people need to hear, changing the Overton window, or just again, looking at legal mechanisms. You found we need more energy.
+
+[7:43] How do we actually get it done? How do you get it done in the long term? If you want to do something about NEPA, how do you get it done in the short term? And lots of stuff to do there. And I think, as Thomas says, that it can be a huge problem nobody's working on. I'm glad there are more and more people here who are now working on it. But even though you might feel like there's plenty of people here, still not plenty enough for what we think this AI governance challenge will be. So please go out there, do stuff. I would encourage all of you, and you can do it for the better.
